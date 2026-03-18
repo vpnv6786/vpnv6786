@@ -68,30 +68,45 @@ I am a **Full-stack Developer** & **Product Builder** from Vietnam 🇻🇳 pass
 
 ## 📱 Featured Projects
 
-### 🛒 Tan Ha Garden - AI-Powered E-Commerce
-> **Tech:** Next.js 14 · TypeScript · Supabase · Gemini AI
+### 🔒 ScamGuard - AI-Powered Scam Protection
+> **Tech:** React 18 · TypeScript · Vite · Tailwind · Supabase · Multi-AI · ⭐ 1 star
 
-White-label multi-tenant e-commerce with AI chatbot and omnichannel integration.
+A comprehensive scam protection platform for the Vietnamese community with AI-powered verification of phone numbers, websites, emails, and images.
+
+- ✅ Multi-provider AI: OpenAI, Gemini, Claude, Perplexity
+- ✅ Real-time community alerts & GPS tracking
+- ✅ Vietnamese & English support
+- ✅ Emergency SOS functionality
+
+**🔗 Repo:** [digital-safety-net](https://github.com/vpnv6786/digital-safety-net) · **Live:** [digital-safety-net.lovable.app](https://digital-safety-net.lovable.app)
+
+---
+
+### 🛒 Tan Ha Garden - AI-Powered E-Commerce
+> **Tech:** Next.js 14 · TypeScript · Supabase · Google Gemini AI · Zustand
+
+White-label multi-tenant e-commerce platform with AI chatbot and omnichannel integration.
+
+- 🤖 Mush-Bot AI: Semantic search & dual-memory system
+- 🎨 White-label theme marketplace with 10+ variations
+- 📊 Admin CMS with 20+ management pages
+- 🌐 Omnichannel: Shopee, Lazada, TikTok, Facebook, Zalo
 
 **🔗 Live:** [ktsgroupkorea.com](https://ktsgroupkorea.com)
 
 ---
 
 ### ☕ POS System - Point of Sale
-> **Tech:** Next.js 14 · TypeScript · Supabase
+> **Tech:** Next.js 14 · TypeScript · Supabase · Zustand
 
-Modern POS system for cafe and restaurant operations.
+Modern POS system designed for cafe and restaurant operations.
+
+- 🪑 Table management & reservation
+- 🧾 Order tracking & billing
+- 📦 Inventory management
+- 📈 Sales reporting & analytics
 
 **🔗 Live:** [posofyou.vercel.app](https://posofyou.vercel.app)
-
----
-
-### 🔒 ScamGuard - AI-Powered Scam Protection
-> **Tech:** React 18 · TypeScript · Vite · Tailwind · Supabase · Multi-AI
-
-A comprehensive scam protection platform for the Vietnamese community with AI-powered verification.
-
-**🔗 Live:** [digital-safety-net.lovable.app](https://digital-safety-net.lovable.app)
 
 ---
 
@@ -108,32 +123,38 @@ Fitness app with M2E/WL2E mechanics and AI Agent Brain with ReAct loops.
 
 ---
 
-### 🎬 Vietnamese Video Pipeline
-> **Tech:** Python · FastAPI · FFmpeg · ViMax · NGHI-TTS · Docker
+### 🎬 Vietnamese Video Pipeline - AI Video Production
+> **Tech:** Python · FastAPI · FFmpeg · Docker
 
-End-to-end automated video production for Vietnamese content.
+End-to-end automated video production pipeline for Vietnamese content.
 
-- 🎥 ViMax for video generation
-- 🗣️ NGHI-TTS for Vietnamese voice
-- 🔄 Auto-Flow Chrome Extension integration
+- 🎥 AI-powered video generation workflows
+- 🗣️ Text-to-speech integration for Vietnamese
+- 🔄 Automated editing and rendering pipeline
+- 📦 Dockerized microservices architecture
 
 ---
 
-### 🧩 Auto-Flow - Chrome Extension
+### 🧩 Auto-Flow - Chrome Extension Automation
 > **Tech:** JavaScript · Chrome Extension API · Manifest V3
 
-Automation for Google Flow and Veo AI interactions.
+Browser automation extension for streamlining content creation workflows.
+
+- ⚡ Google Flow & Veo AI integration
+- 🔗 Pipeline API connectivity
+- 🌐 Browser-based task automation
 
 ---
 
 ### 🦀 MiteClaw - Local-First AI Agent
 > **Tech:** Go 1.24 · Zero Dependencies
 
-Lightweight AI agent in a single 22.7MB binary with free-first LLM routing.
+Lightweight, local-first AI agent in a single binary with free-first LLM routing.
 
-- 📦 22.7MB single binary, zero dependencies
-- 🆓 Gemini → Cerebras → Ollama routing
-- 🌍 8 languages support
+- 📦 Single binary: 22.7MB, zero dependencies
+- 🆓 Free-first routing: Gemini → Cerebras → Ollama
+- 🌍 Multi-language support
+- ⚡ <2s startup, <15MB RAM
 
 ---
 
