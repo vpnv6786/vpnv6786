@@ -49,6 +49,19 @@ I am a **Full-stack Developer** & **Product Builder** from Vietnam 🇻🇳 pass
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+### AI Coding Assistants
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logoColor=white)
+![Trae](https://img.shields.io/badge/-Trae-000000?style=flat-square&logoColor=white)
+![Antigravity](https://img.shields.io/badge/-Antigravity-6366F1?style=flat-square&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logoColor=white)
+![Kiro](https://img.shields.io/badge/-Kiro-10B981?style=flat-square&logoColor=white)
+![Qwen Code](https://img.shields.io/badge/-Qwen_Code-7C3AED?style=flat-square&logoColor=white)
+![Kilo](https://img.shields.io/badge/-Kilo-F59E0B?style=flat-square&logoColor=white)
+![RooCode](https://img.shields.io/badge/-RooCode-EC4899?style=flat-square&logoColor=white)
+
+### Deployment
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
 </div>
 
 ---
