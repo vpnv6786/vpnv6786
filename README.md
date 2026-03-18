@@ -68,15 +68,6 @@ I am a **Full-stack Developer** & **Product Builder** from Vietnam 🇻🇳 pass
 
 ## 📱 Featured Projects
 
-### 🔒 ScamGuard - AI-Powered Scam Protection
-> **Tech:** React 18 · TypeScript · Vite · Tailwind · Supabase · Multi-AI
-
-A comprehensive scam protection platform for the Vietnamese community with AI-powered verification.
-
-**🔗 Live:** [digital-safety-net.lovable.app](https://digital-safety-net.lovable.app)
-
----
-
 ### 🛒 Tan Ha Garden - AI-Powered E-Commerce
 > **Tech:** Next.js 14 · TypeScript · Supabase · Gemini AI
 
@@ -92,6 +83,15 @@ White-label multi-tenant e-commerce with AI chatbot and omnichannel integration.
 Modern POS system for cafe and restaurant operations.
 
 **🔗 Live:** [posofyou.vercel.app](https://posofyou.vercel.app)
+
+---
+
+### 🔒 ScamGuard - AI-Powered Scam Protection
+> **Tech:** React 18 · TypeScript · Vite · Tailwind · Supabase · Multi-AI
+
+A comprehensive scam protection platform for the Vietnamese community with AI-powered verification.
+
+**🔗 Live:** [digital-safety-net.lovable.app](https://digital-safety-net.lovable.app)
 
 ---
 
