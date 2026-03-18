@@ -57,7 +57,6 @@ I am a **Full-stack Developer** & **Product Builder** from Vietnam 🇻🇳 pass
 
 ### Cloud & Deployment
 ![Modal](https://img.shields.io/badge/-Modal-000000?style=flat-square)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
@@ -199,9 +198,21 @@ Lightweight, local-first AI agent in a single binary with browser automation and
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vpnv6786&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/vpnv6786)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vpnv6786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/vpnv6786)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vpnv6786&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/vpnv6786)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vpnv6786&layout=compact&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/vpnv6786)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vpnv6786&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Featured Repositories
+
+<div align="center">
+
+[![digital-safety-net](https://github-readme-stats.vercel.app/api/pin/?username=vpnv6786&repo=digital-safety-net&theme=tokyonight&hide_border=true)](https://github.com/vpnv6786/digital-safety-net)
 
 </div>
 
