@@ -124,3 +124,4 @@ A modern POS system designed for cafe and restaurant operations.
 </div>
 
 
+<!-- Updated: Wed, Mar 18, 2026 12:54:21 PM -->
