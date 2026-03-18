@@ -194,15 +194,17 @@ Lightweight, local-first AI agent in a single binary with browser automation and
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Development Activity
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vpnv6786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/vpnv6786)
+### 💻 Code Contributions (Last Year)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vpnv6786&layout=compact&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/vpnv6786)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vpnv6786&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+| Project | Commits | Status |
+|---------|---------|--------|
+| ☕ **Order Bill** (POS System) | 1,455 | Production |
+| 🛒 **Mobile E-Commerce** (Tan Ha Garden) | 107 | Production |
+| 🛡️ **ScamGuard** | 1⭐ Public | Shipped |
 
 </div>
 
