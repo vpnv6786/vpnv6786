@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full-stack Developer** & **Product Builder** from Vietnam 🇻🇳 passionate about creating solutions that solve real-world problems.
+I am a **Full-stack Developer** & **Product Builder** from Vietnam 🇻🇳 passionate about creating solutions that solve real-world problems.
 
 - 🔭 Currently building **ScamGuard** - AI-powered scam protection platform
 - 🌱 Exploring the intersection of **AI** and **Web Development**
@@ -43,8 +43,11 @@ I'm a **Full-stack Developer** & **Product Builder** from Vietnam 🇻🇳 passi
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
-### State Management
-![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square)
+### Tools
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
@@ -53,42 +56,71 @@ I'm a **Full-stack Developer** & **Product Builder** from Vietnam 🇻🇳 passi
 ## 📱 Featured Projects
 
 ### 🔒 ScamGuard - AI-Powered Scam Protection
-> **Tech:** React 18 · TypeScript · Vite · Tailwind · Supabase · Multi-AI Providers
+> **Tech:** React 18 · TypeScript · Vite · Tailwind · Supabase · Multi-AI
 
-A comprehensive scam protection platform designed for the Vietnamese community. Features AI-powered verification of phone numbers, websites, emails, and images.
+A comprehensive scam protection platform for the Vietnamese community with AI-powered verification.
 
-- ✅ Multi-provider AI: OpenAI, Gemini, Claude, Perplexity
-- ✅ Real-time community alerts
-- ✅ Vietnamese & English support
-- ✅ Emergency GPS tracking & SOS button
+**🔗 Live:** [digital-safety-net.lovable.app](https://digital-safety-net.lovable.app)
 
 ---
 
 ### 🛒 Tan Ha Garden - AI-Powered E-Commerce
-> **Tech:** Next.js 14 · TypeScript · Tailwind · Supabase · Google Gemini AI
+> **Tech:** Next.js 14 · TypeScript · Supabase · Gemini AI
 
-A white-label multi-tenant e-commerce platform with AI integration. Features Mush-Bot AI assistant for customer support.
-
-- 🤖 AI chatbot with semantic search
-- 🎨 White-label theme marketplace
-- 📊 Admin CMS with 20+ pages
-- 🌐 Omnichannel integration
+White-label multi-tenant e-commerce with AI chatbot and omnichannel integration.
 
 **🔗 Live:** [ktsgroupkorea.com](https://ktsgroupkorea.com)
 
 ---
 
-### ☕ POS System - Point of Sale for Cafes
-> **Tech:** Next.js 14 · TypeScript · Supabase · Zustand
+### ☕ POS System - Point of Sale
+> **Tech:** Next.js 14 · TypeScript · Supabase
 
-A modern POS system designed for cafe and restaurant operations.
-
-- 🪑 Table management
-- 🧾 Order tracking & billing
-- 📦 Inventory management
-- 📈 Sales reporting
+Modern POS system for cafe and restaurant operations.
 
 **🔗 Live:** [posofyou.vercel.app](https://posofyou.vercel.app)
+
+---
+
+## 🚧 Projects in Development
+
+### 🏃‍♂️ FitRunStake - Move-to-Earn on Sui Blockchain
+> **Tech:** Next.js 16 · TypeScript · Sui Move · Python · Supabase
+
+Fitness app with M2E/WL2E mechanics and AI Agent Brain with ReAct loops.
+
+- 💰 Stake USDC on fitness goals
+- 🤖 AI Agent Brain: ReAct loop, 3-tier memory
+- 🔐 Web3: Sui blockchain with zkLogin
+
+---
+
+### 🎬 Vietnamese Video Pipeline
+> **Tech:** Python · FastAPI · FFmpeg · ViMax · NGHI-TTS · Docker
+
+End-to-end automated video production for Vietnamese content.
+
+- 🎥 ViMax for video generation
+- 🗣️ NGHI-TTS for Vietnamese voice
+- 🔄 Auto-Flow Chrome Extension integration
+
+---
+
+### 🧩 Auto-Flow - Chrome Extension
+> **Tech:** JavaScript · Chrome Extension API · Manifest V3
+
+Automation for Google Flow and Veo AI interactions.
+
+---
+
+### 🦀 MiteClaw - Local-First AI Agent
+> **Tech:** Go 1.24 · Zero Dependencies
+
+Lightweight AI agent in a single 22.7MB binary with free-first LLM routing.
+
+- 📦 22.7MB single binary, zero dependencies
+- 🆓 Gemini → Cerebras → Ollama routing
+- 🌍 8 languages support
 
 ---
 
@@ -104,7 +136,7 @@ A modern POS system designed for cafe and restaurant operations.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
@@ -122,7 +154,3 @@ A modern POS system designed for cafe and restaurant operations.
 ![Profile Views](https://komarev.com/ghpvc/?username=vpnv6786&color=blue&style=flat-square)
 
 </div>
-
-
-<!-- Updated: Wed, Mar 18, 2026 12:54:21 PM -->
-
