@@ -55,11 +55,6 @@ I am a **Full-stack Developer** & **Product Builder** from Vietnam 🇻🇳 pass
 ![Qwen](https://img.shields.io/badge/-Qwen_API-8B5CF6?style=flat-square)
 ![Unsloth](https://img.shields.io/badge/-Unsloth-FF6B35?style=flat-square)
 
-### Cloud & Deployment
-![Modal](https://img.shields.io/badge/-Modal-000000?style=flat-square)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
 ### Tools & Languages
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -77,7 +72,10 @@ I am a **Full-stack Developer** & **Product Builder** from Vietnam 🇻🇳 pass
 ![Kilo](https://img.shields.io/badge/-Kilo-F59E0B?style=flat-square&logoColor=white)
 ![RooCode](https://img.shields.io/badge/-RooCode-EC4899?style=flat-square&logoColor=white)
 
-### Deployment
+### Cloud & Deployment
+![Modal](https://img.shields.io/badge/-Modal-000000?style=flat-square)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
@@ -204,7 +202,7 @@ Lightweight, local-first AI agent in a single binary with browser automation and
 |---------|---------|--------|
 | ☕ **Order Bill** (POS System) | 1,455 | Production |
 | 🛒 **Mobile E-Commerce** (Tan Ha Garden) | 107 | Production |
-| 🛡️ **ScamGuard** | 1⭐ Public | Shipped |
+| 🔧 **Other** | 111 | Active |
 
 </div>
 
@@ -214,7 +212,7 @@ Lightweight, local-first AI agent in a single binary with browser automation and
 
 <div align="center">
 
-[![digital-safety-net](https://github-readme-stats.vercel.app/api/pin/?username=vpnv6786&repo=digital-safety-net&theme=tokyonight&hide_border=true)](https://github.com/vpnv6786/digital-safety-net)
+*More repositories coming soon...*
 
 </div>
 
