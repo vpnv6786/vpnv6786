@@ -68,43 +68,29 @@ I am a **Full-stack Developer** & **Product Builder** from Vietnam 🇻🇳 pass
 
 ## 📱 Featured Projects
 
-### 🔒 ScamGuard - AI-Powered Scam Protection
-> **Tech:** React 18 · TypeScript · Vite · Tailwind · Supabase · Multi-AI · ⭐ 1 star
-
-A comprehensive scam protection platform for the Vietnamese community with AI-powered verification of phone numbers, websites, emails, and images.
-
-- ✅ Multi-provider AI: OpenAI, Gemini, Claude, Perplexity
-- ✅ Real-time community alerts & GPS tracking
-- ✅ Vietnamese & English support
-- ✅ Emergency SOS functionality
-
-**🔗 Repo:** [digital-safety-net](https://github.com/vpnv6786/digital-safety-net) · **Live:** [digital-safety-net.lovable.app](https://digital-safety-net.lovable.app)
-
----
-
 ### 🛒 Tan Ha Garden - AI-Powered E-Commerce
-> **Tech:** Next.js 14 · TypeScript · Supabase · Google Gemini AI · Zustand
+> **Tech:** Next.js 14 · React 18 · TypeScript · Tailwind CSS · Zustand · Supabase · Google Gemini AI · Framer Motion
 
-White-label multi-tenant e-commerce platform with AI chatbot and omnichannel integration.
+White-label multi-tenant e-commerce platform with AI-powered Mush-Bot assistant and omnichannel integration.
 
-- 🤖 Mush-Bot AI: Semantic search & dual-memory system
-- 🎨 White-label theme marketplace with 10+ variations
-- 📊 Admin CMS with 20+ management pages
-- 🌐 Omnichannel: Shopee, Lazada, TikTok, Facebook, Zalo
+- 🤖 **Mush-Bot AI**: Semantic search with dual-memory system (short-term + long-term)
+- 🎨 **White-label CMS**: 20+ management pages, 10+ theme variations
+- 🌐 **Omnichannel**: Shopee, Lazada, TikTok, Facebook, Zalo integration
+- 📊 **Analytics**: Real-time sales reports with Recharts
 
 **🔗 Live:** [ktsgroupkorea.com](https://ktsgroupkorea.com)
 
 ---
 
-### ☕ POS System - Point of Sale
-> **Tech:** Next.js 14 · TypeScript · Supabase · Zustand
+### ☕ POS System - Point of Sale for Cafes
+> **Tech:** Next.js 14 · React 18 · TypeScript · Tailwind CSS · Zustand · Supabase · Google Gemini AI
 
-Modern POS system designed for cafe and restaurant operations.
+Modern POS system with email authentication, offline support, and comprehensive cafe management.
 
-- 🪑 Table management & reservation
-- 🧾 Order tracking & billing
-- 📦 Inventory management
-- 📈 Sales reporting & analytics
+- 🪑 **Table Management**: Visual floor plan with drag-and-drop (dnd)
+- 🧾 **Smart Billing**: Auto PDF generation with jsPDF
+- 📦 **Inventory**: Real-time stock tracking with Dexie (IndexedDB)
+- 🔔 **Notifications**: Web push + toast notifications (Sonner/Hot Toast)
 
 **🔗 Live:** [posofyou.vercel.app](https://posofyou.vercel.app)
 
@@ -113,48 +99,53 @@ Modern POS system designed for cafe and restaurant operations.
 ## 🚧 Projects in Development
 
 ### 🏃‍♂️ FitRunStake - Move-to-Earn on Sui Blockchain
-> **Tech:** Next.js 16 · TypeScript · Sui Move · Python · Supabase
+> **Tech:** Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Sui.js · zkLogin · Supabase · Zustand · MediaPipe
 
-Fitness app with M2E/WL2E mechanics and AI Agent Brain with ReAct loops.
+Fitness app combining M2E (Move-to-Earn) mechanics with Web3 staking on Sui blockchain.
 
-- 💰 Stake USDC on fitness goals
-- 🤖 AI Agent Brain: ReAct loop, 3-tier memory
-- 🔐 Web3: Sui blockchain with zkLogin
+- 💰 **Stake USDC**: Lock tokens on fitness goals, earn rewards
+- 🤖 **AI Agent Brain**: ReAct loop with 3-tier memory system
+- 🔐 **Web3 Auth**: zkLogin for passwordless wallet connection
+- 🗺️ **GPS Tracking**: Leaflet maps for route visualization
+- 🏃 **Pose Detection**: MediaPipe Vision for exercise form analysis
 
 ---
 
 ### 🎬 Vietnamese Video Pipeline - AI Video Production
-> **Tech:** Python · FastAPI · FFmpeg · Docker
+> **Tech:** Python · FastAPI · Docker · Redis · FFmpeg · Multi-Agent System
 
-End-to-end automated video production pipeline for Vietnamese content.
+End-to-end automated video production pipeline with agent-based orchestration.
 
-- 🎥 AI-powered video generation workflows
-- 🗣️ Text-to-speech integration for Vietnamese
-- 🔄 Automated editing and rendering pipeline
-- 📦 Dockerized microservices architecture
+- 🎬 **Multi-Agent System**: ScriptGeneration → TTS → VideoGeneration → Assembly
+- 🔄 **Workflow Engine**: Circuit breaker, Saga pattern, Event sourcing
+- 🐳 **Dockerized**: Production-ready with Redis caching
+- 🚀 **Resume Capability**: Checkpoint system for long-running pipelines
 
 ---
 
 ### 🧩 Auto-Flow - Chrome Extension Automation
-> **Tech:** JavaScript · Chrome Extension API · Manifest V3
+> **Tech:** JavaScript · Chrome Extension API · Manifest V3 · Design System
 
 Browser automation extension for streamlining content creation workflows.
 
-- ⚡ Google Flow & Veo AI integration
-- 🔗 Pipeline API connectivity
-- 🌐 Browser-based task automation
+- ⚡ **Google Flow/Veo Integration**: Automate AI video generation
+- 🔗 **Pipeline API**: Connect to Vietnamese Video Pipeline
+- 🎨 **Design System**: Custom UI components with locale support
+- 📋 **Manifest V3**: Modern extension architecture
 
 ---
 
 ### 🦀 MiteClaw - Local-First AI Agent
-> **Tech:** Go 1.24 · Zero Dependencies
+> **Tech:** Go 1.24 · Zero Dependencies · HTTP API · Ring Buffer Logging
 
-Lightweight, local-first AI agent in a single binary with free-first LLM routing.
+Lightweight, local-first AI agent in a single binary with browser automation and workflow orchestration.
 
-- 📦 Single binary: 22.7MB, zero dependencies
-- 🆓 Free-first routing: Gemini → Cerebras → Ollama
-- 🌍 Multi-language support
-- ⚡ <2s startup, <15MB RAM
+- 📦 **Single Binary**: 22.7MB, zero dependencies, <2s startup, <15MB RAM
+- 🌐 **Browser Daemon**: HTTP API for automation (@e1, @c1 accessibility refs)
+- 🔄 **Workflow Engine**: Parallel execution, pre-flight checks, state persistence
+- 📝 **Ring Buffer**: 50K-entry circular buffers for actions/errors/console
+- 🆓 **Free-First LLM**: Gemini → Cerebras → Ollama routing
+- 🌍 **Multi-language**: 8 languages, 7 currencies support
 
 ---
 
