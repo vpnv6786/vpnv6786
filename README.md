@@ -52,6 +52,14 @@ I am a **Full-stack Developer** & **Product Builder** from Vietnam 🇻🇳 pass
 ### AI & APIs
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Qwen](https://img.shields.io/badge/-Qwen_API-8B5CF6?style=flat-square)
+![Unsloth](https://img.shields.io/badge/-Unsloth-FF6B35?style=flat-square)
+
+### Cloud & Deployment
+![Modal](https://img.shields.io/badge/-Modal-000000?style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ### Tools & Languages
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -122,6 +130,19 @@ A comprehensive scam protection platform for the Vietnamese community with AI-po
 ---
 
 ## 🚧 Projects in Development
+
+### 🧠 Fine-Tuned - LLM Fine-Tuning Platform
+> **Tech:** Python · Modal · Unsloth · Transformers · PEFT · LoRA · Qwen 2.5
+
+Cloud-based fine-tuning platform for LLMs using Unsloth optimization and Modal serverless GPU.
+
+- 🚀 **Unsloth Optimized**: 2x faster training, 70% less memory
+- 🎛️ **LoRA Config**: Rank 32, 4-bit quantization (QLoRA)
+- ☁️ **Modal Cloud**: Serverless A100 GPU with auto-scaling
+- 🤖 **Base Model**: Qwen 2.5 7B (Chinese-Vietnamese optimized)
+- 📊 **Custom Datasets**: Facebook/social content fine-tuning
+
+---
 
 ### 🏃‍♂️ FitRunStake - Move-to-Earn on Sui Blockchain
 > **Tech:** Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Sui.js · zkLogin · Supabase · Zustand · MediaPipe
