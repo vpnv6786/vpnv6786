@@ -19,10 +19,11 @@
 I am a **Full-stack Developer** & **Product Builder** from Vietnam 🇻🇳 passionate about creating solutions that solve real-world problems.
 
 - 🔭 Currently building **FitRunStake** - Move-to-Earn fitness app on Sui Blockchain
+- 🛡️ Shipped **ScamGuard** - AI-powered scam protection (1⭐ on GitHub)
+- ☕ Running production: **Tan Ha Garden** (E-commerce) & **POS System** (Cafe management)
 - 🌱 Exploring the intersection of **AI**, **Web3**, and **Web Development**
 - 💡 Love working with **React**, **Next.js**, **TypeScript**, **Supabase**, and **Web3**
 - 🎯 Focus: Building products that make a difference in people's daily lives
-- ☕ Run production systems: **Tan Ha Garden** (E-commerce) & **POS System** (Cafe management)
 
 ---
 
@@ -103,6 +104,20 @@ Modern POS system with email authentication, offline support, and comprehensive 
 - 🔔 **Notifications**: Web push + toast notifications (Sonner/Hot Toast)
 
 **🔗 Live:** [posofyou.vercel.app](https://posofyou.vercel.app)
+
+---
+
+### 🔒 ScamGuard - AI-Powered Scam Protection
+> **Tech:** React 18 · TypeScript · Vite · Tailwind · Supabase · Multi-AI · ⭐ 1 star
+
+A comprehensive scam protection platform for the Vietnamese community with AI-powered verification.
+
+- ✅ **Multi-provider AI**: OpenAI, Gemini, Claude, Perplexity
+- 📱 **Verification**: Phone numbers, websites, emails, images
+- 🚨 **Safety Features**: Real-time alerts, GPS tracking, Emergency SOS
+- 🌍 **Bilingual**: Vietnamese & English support
+
+**🔗 Repo:** [digital-safety-net](https://github.com/vpnv6786/digital-safety-net) · **Live:** [digital-safety-net.lovable.app](https://digital-safety-net.lovable.app)
 
 ---
 
