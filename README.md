@@ -18,10 +18,11 @@
 
 I am a **Full-stack Developer** & **Product Builder** from Vietnam 🇻🇳 passionate about creating solutions that solve real-world problems.
 
-- 🔭 Currently building **ScamGuard** - AI-powered scam protection platform
-- 🌱 Exploring the intersection of **AI** and **Web Development**
-- 💡 Love working with **React**, **Next.js**, **TypeScript**, and **Supabase**
+- 🔭 Currently building **FitRunStake** - Move-to-Earn fitness app on Sui Blockchain
+- 🌱 Exploring the intersection of **AI**, **Web3**, and **Web Development**
+- 💡 Love working with **React**, **Next.js**, **TypeScript**, **Supabase**, and **Web3**
 - 🎯 Focus: Building products that make a difference in people's daily lives
+- ☕ Run production systems: **Tan Ha Garden** (E-commerce) & **POS System** (Cafe management)
 
 ---
 
@@ -34,20 +35,29 @@ I am a **Full-stack Developer** & **Product Builder** from Vietnam 🇻🇳 pass
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-EF4444?style=flat-square&logo=framer&logoColor=white)
 
 ### Backend & Database
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Web3 & Blockchain
+![Sui](https://img.shields.io/badge/-Sui-4CA3FF?style=flat-square)
+![zkLogin](https://img.shields.io/badge/-zkLogin-6B7280?style=flat-square)
 
 ### AI & APIs
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
-### Tools
+### Tools & Languages
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 
 ### AI Coding Assistants
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logoColor=white)
