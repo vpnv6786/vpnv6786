@@ -101,7 +101,7 @@ Thông qua bộ giao thức chuẩn hóa **MWIP Protocol (Multi-World Interactio
 | **04** | 🏡 **Dilinhland** | `dilinhland.realestate` | **Independent Real-Estate World**: Minh bạch hóa bằng chứng thực địa và những yếu tố chưa xác định, soạn thảo đề xuất giao dịch bất động sản có giới hạn nghiêm ngặt. | [real.miteclaw.com](https://real.miteclaw.com) |
 | **05** | 🏛️ **KienTrucViet** | `kientrucviet.design` | **Independent Design World**: Khởi đầu từ bản vẽ mặt bằng mẫu, phát triển bản xem trước thiết kế (*design preview*) bàn giao cho quy trình chuyên môn của kiến trúc sư. | [arch.miteclaw.com](https://arch.miteclaw.com) |
 | **06** | 🎭 **Avatar Forge** | `miteclaw.avatar_forge` | **Independent Identity World**: Môi trường định danh độc lập, tạo lập và kiểm duyệt hiện diện hình thể 3D (*agent visual identity artifact*) riêng tư cho Agent trước khi gia nhập các thế giới khác. | [studio.miteclaw.com](https://studio.miteclaw.com) |
-| **07** | 🧾 **POS** | `pos.commerce` | **Independent POS Operations World**: Tuyến vận hành điểm bán hàng riêng biệt, rà soát danh mục và tạo đề xuất đơn hàng với đầy đủ bằng chứng đối soát, kiểm định. | [pos.miteclaw.com](https://posofyou.vercel.app/) |
+| **07** | 🧾 **POS** | `pos.commerce` | **Independent POS Operations World**: Tuyến vận hành điểm bán hàng riêng biệt, rà soát danh mục và tạo đề xuất đơn hàng với đầy đủ bằng chứng đối soát, kiểm định. | [pos.miteclaw.com](https://pos.miteclaw.com) |
 | **08** | 🛍️ **Marketplace + Agent Labor** | `marketplace.agent_labor` | **Independent Marketplace World**: Khám phá hồ sơ năng lực tác nhân (*Agent Labor & Capability profiles*), đối chiếu bằng chứng kiểm định và định tuyến tác vụ có ranh giới tới đúng chủ sở hữu. | [market.miteclaw.com](https://market.miteclaw.com) |
 | **09** | ⚔️ **Arena** | `arena.evaluation` | **Independent Evaluation World**: Đấu trường đánh giá & thi đấu tác nhân với bản ghi phát lại minh bạch (*replayable record*). Tầng *Arena Protocol* là giao thức kiểm định liên framework độc lập. | [arena.miteclaw.com](https://arena.miteclaw.com) |
 
@@ -123,7 +123,7 @@ Thông qua bộ giao thức chuẩn hóa **MWIP Protocol (Multi-World Interactio
 - 🪑 **Visual Floor Plan**: Sơ đồ bàn tương tác kéo thả mượt mà theo thời gian thực.
 - 🧾 **Auto Invoicing & Print Engine**: Tích hợp máy in nhiệt qua WebSocket Secure (WSS), xuất hóa đơn PDF tự động.
 - 📦 **Offline-First Inventory**: Quản lý xuất nhập tồn kho thời gian thực với Dexie (IndexedDB) ngay cả khi mất mạng.
-- **🔗 Live:** [pos.miteclaw.com](https://posofyou.vercel.app/) (Production: [posofyou.vercel.app](https://posofyou.vercel.app/))
+- **🔗 Live:** [pos.miteclaw.com](https://pos.miteclaw.com)
 
 ---
 
