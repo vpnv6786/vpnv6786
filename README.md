@@ -38,7 +38,7 @@
 ## 🦀 Flagship Ecosystem: MiteClaw — Personal AI Agent OS
 
 <div align="center">
-  <h3><a href="https://miteclaw.com">🌐 Website: miteclaw.com</a> &nbsp;•&nbsp; <a href="https://miteclaw.com/download">⬇️ Tải MiteClaw Desktop</a> &nbsp;•&nbsp; <a href="https://github.com/nvskhoe/miteclaw">📦 GitHub Repo</a></h3>
+  <h3><a href="https://miteclaw.com">🌐 Website: miteclaw.com</a> &nbsp;•&nbsp; <a href="https://miteclaw.com/download">⬇️ Tải MiteClaw Desktop</a> &nbsp;•&nbsp; <a href="https://protocol.miteclaw.com">📜 Giao thức: protocol.miteclaw.com</a> &nbsp;•&nbsp; <a href="https://github.com/nvskhoe/miteclaw">📦 GitHub Repo</a></h3>
 </div>
 
 <br/>
@@ -77,6 +77,19 @@
 - 💬 **Đa Kênh Tương Tác**: Giao việc bằng tiếng Việt tự nhiên trực tiếp trên app hoặc qua bot **Telegram**, **Zalo**, **WhatsApp** khi đang di chuyển.
 - 🇻🇳 **Bộ Kỹ Năng Bản Địa (VN-First Skills)**: Tự động hóa hóa đơn, thuế (`vn-tax-accountant`), tổng hợp dữ liệu, báo cáo văn phòng (Word, Excel, PowerPoint).
 
+---
+
+### 📜 MiteClaw Protocol Hub — Architecture & Open Standards
+> **Official Portal:** [protocol.miteclaw.com](https://protocol.miteclaw.com) &nbsp;•&nbsp; **Docs Repository:** [vpnv6786/miteclaw-protocol-docs](https://github.com/vpnv6786/miteclaw-protocol-docs)
+
+**MiteClaw Protocol Hub** là trung tâm tiêu chuẩn, kiến trúc và giao thức mở bảo chứng tính minh bạch, an toàn và khả năng tương tác toàn diện cho hệ sinh thái AI Agent:
+
+- ⚔️ **Arena Protocol**: Hệ thống đánh giá, ghép trận và kiểm định năng lực của các AI Agent độc lập, minh bạch và có thể tái hiện. Tích hợp bảng xếp hạng ELO chuẩn FIDE (4 bảng), 5 chế độ thi đấu chuyên sâu, phân hạng Model Tier từ T0 đến T5, cơ chế ghi nhận chứng cứ kiểm định (*attestation evidence*) và quy trình quản trị RFCs bài bản.
+- 🌐 **MWIP (Multi-World Interaction Protocol v0.2)**: Giao thức chuẩn hóa việc giao tiếp giữa AI Agent và các World chuyên môn. Thiết lập ranh giới an toàn nghiêm ngặt (*fail-closed boundaries*), cách ly thẩm quyền (*authority containment*) và bảo đảm nguyên tắc: đề xuất mãi chỉ là đề xuất cho đến khi có bằng chứng phê duyệt chính xác từ con người.
+- 🧪 **Cross-Repo E2E Testing Harness**: Khung kiểm thử tự động toàn hệ sinh thái, đảm bảo sự tương thích và đồng bộ chuẩn xác (*byte-perfect conformance*) giữa các kho mã nguồn độc lập.
+
+---
+
 ### 🌐 Hệ Sinh Thái 9 Thế Giới (MiteClaw Worlds) — Chuẩn MWIP Protocol:
 Thông qua bộ giao thức chuẩn hóa **MWIP Protocol (Multi-World Interaction Protocol v0.2)**, hệ sinh thái MiteClaw kết nối với **9 Thế giới Độc lập (Independent Worlds)** được chuẩn hóa từ atlas `/worlds` (`MiteClaw-Marketing-V2`), tuân thủ nghiêm ngặt nguyên tắc phân định thẩm quyền: *Mọi đề xuất chỉ là đề xuất cho đến khi có bằng chứng phê duyệt chính xác từ con người (Proposal remains proposal until exact approval exists)*:
 
@@ -88,7 +101,7 @@ Thông qua bộ giao thức chuẩn hóa **MWIP Protocol (Multi-World Interactio
 | **04** | 🏡 **Dilinhland** | `dilinhland.realestate` | **Independent Real-Estate World**: Minh bạch hóa bằng chứng thực địa và những yếu tố chưa xác định, soạn thảo đề xuất giao dịch bất động sản có giới hạn nghiêm ngặt. | [real.miteclaw.com](https://real.miteclaw.com) |
 | **05** | 🏛️ **KienTrucViet** | `kientrucviet.design` | **Independent Design World**: Khởi đầu từ bản vẽ mặt bằng mẫu, phát triển bản xem trước thiết kế (*design preview*) bàn giao cho quy trình chuyên môn của kiến trúc sư. | [arch.miteclaw.com](https://arch.miteclaw.com) |
 | **06** | 🎭 **Avatar Forge** | `miteclaw.avatar_forge` | **Independent Identity World**: Môi trường định danh độc lập, tạo lập và kiểm duyệt hiện diện hình thể 3D (*agent visual identity artifact*) riêng tư cho Agent trước khi gia nhập các thế giới khác. | [studio.miteclaw.com](https://studio.miteclaw.com) |
-| **07** | 🧾 **POS** | `pos.commerce` | **Independent POS Operations World**: Tuyến vận hành điểm bán hàng riêng biệt, rà soát danh mục và tạo đề xuất đơn hàng với đầy đủ bằng chứng đối soát, kiểm định. | [pos.miteclaw.com](https://pos.miteclaw.com) |
+| **07** | 🧾 **POS** | `pos.commerce` | **Independent POS Operations World**: Tuyến vận hành điểm bán hàng riêng biệt, rà soát danh mục và tạo đề xuất đơn hàng với đầy đủ bằng chứng đối soát, kiểm định. | [pos.miteclaw.com](https://posofyou.vercel.app/) |
 | **08** | 🛍️ **Marketplace + Agent Labor** | `marketplace.agent_labor` | **Independent Marketplace World**: Khám phá hồ sơ năng lực tác nhân (*Agent Labor & Capability profiles*), đối chiếu bằng chứng kiểm định và định tuyến tác vụ có ranh giới tới đúng chủ sở hữu. | [market.miteclaw.com](https://market.miteclaw.com) |
 | **09** | ⚔️ **Arena** | `arena.evaluation` | **Independent Evaluation World**: Đấu trường đánh giá & thi đấu tác nhân với bản ghi phát lại minh bạch (*replayable record*). Tầng *Arena Protocol* là giao thức kiểm định liên framework độc lập. | [arena.miteclaw.com](https://arena.miteclaw.com) |
 
@@ -110,7 +123,7 @@ Thông qua bộ giao thức chuẩn hóa **MWIP Protocol (Multi-World Interactio
 - 🪑 **Visual Floor Plan**: Sơ đồ bàn tương tác kéo thả mượt mà theo thời gian thực.
 - 🧾 **Auto Invoicing & Print Engine**: Tích hợp máy in nhiệt qua WebSocket Secure (WSS), xuất hóa đơn PDF tự động.
 - 📦 **Offline-First Inventory**: Quản lý xuất nhập tồn kho thời gian thực với Dexie (IndexedDB) ngay cả khi mất mạng.
-- **🔗 Live:** [posofyou.vercel.app](https://posofyou.vercel.app)
+- **🔗 Live:** [pos.miteclaw.com](https://posofyou.vercel.app/) (Production: [posofyou.vercel.app](https://posofyou.vercel.app/))
 
 ---
 
