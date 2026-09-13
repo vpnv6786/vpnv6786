@@ -1,237 +1,171 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabinet+Grotesk&weight=700&size=32&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vo+Phi+Vu+%F0%9F%91%8B;Full-stack+Developer;Product+Builder;AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabinet+Grotesk&weight=700&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Vo+Phi+Vu+%F0%9F%91%8B;AI+Systems+Architect+%26+Product+Builder;Democratizing+Personal+AI+Agents+for+Everyone;Creator+of+MiteClaw+Ecosystem+%F0%9F%A6%80)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Local_AI-FF6B35?style=for-the-badge&logo=ai&logoColor=white" alt="Local AI" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🌟 The Vision & Philosophy | Tầm Nhìn & Sứ Mệnh
 
-I am a **Full-stack Developer** & **Product Builder** from Vietnam 🇻🇳 passionate about creating solutions that solve real-world problems.
+<div align="justify">
 
-- 🔭 Currently building **FitRunStake** - Move-to-Earn fitness app on Sui Blockchain
-- 🛡️ Shipped **ScamGuard** - AI-powered scam protection (1⭐ on GitHub)
-- ☕ Running production: **Tan Ha Garden** (E-commerce) & **POS System** (Cafe management)
-- 🌱 Exploring the intersection of **AI**, **Web3**, and **Web Development**
-- 💡 Love working with **React**, **Next.js**, **TypeScript**, **Supabase**, and **Web3**
-- 🎯 Focus: Building products that make a difference in people's daily lives
+> *"Trước khi nhân loại bước vào kỷ nguyên mỗi người đều sở hữu các robot vật lý (humanoid robots) phục vụ cuộc sống hàng ngày như cách chúng ta sở hữu xe hơi, máy tính hay smartphone hiện nay, thì trong tương lai gần nhất — **chỉ từ 1 đến 3 năm tới** — mỗi cá nhân sẽ sở hữu cho riêng mình **ít nhất một AI Agent (Hệ đa tác nhân)** để làm trợ lý đắc lực.*
+>
+> *Những AI Agent này sẽ sống và vận hành trực tiếp trên máy tính cá nhân, VPS cá nhân hoặc điện thoại của mỗi người: hiểu rõ thói quen, tôn trọng quyền riêng tư tuyệt đối, và đồng hành bền bỉ 24/7."*
+
+</div>
+
+Để hiện thực hóa tầm nhìn đó, tôi xây dựng và phát triển **MiteClaw** với sứ mệnh **Phổ cập hóa AI Agent** cho toàn xã hội:
+- 🎁 **Phát hành miễn phí (Freeware for All)**: Bất kỳ ai cũng có thể tải về và sở hữu ngay một trợ lý AI mạnh mẽ chạy trực tiếp trên máy tính cá nhân chỉ trong vài phút, bảo mật 100% dữ liệu (Local-First).
+- 🎓 **Giáo dục & Khai sáng công nghệ qua mô hình "Agent Body"**: Giúp người dùng hiểu sâu sắc về bản chất của AI Agent thay vì thần thánh hóa hay sợ hãi — thông qua giải phẫu trực quan 4 phần:
+  - 🧠 **Head (Đầu / Context)**: Bối cảnh, mục tiêu và tri thức — minh bạch hóa điều Agent biết và điều chưa biết.
+  - 💖 **Heart (Tim / Boundary & Governance)**: Giới hạn an toàn và đạo đức — quyền phê duyệt tối thượng luôn thuộc về con người (*Exact-Effect Approval Gates*).
+  - 🤲 **Hands (Tay / Capabilities & Skills)**: Kỹ năng chuyên môn và kết nối hành động (CRM, Office, Web, Zalo, Telegram...) được cấp quyền có kiểm soát.
+  - 🦶 **Feet (Chân / Workspace & Grounding)**: Không gian làm việc cục bộ an toàn, ghi nhận vết thực thi bền vững và bàn giao kết quả thực tế.
 
 ---
 
-## 🛠️ Tech Stack
+## 🦀 Flagship Ecosystem: MiteClaw — Personal AI Agent OS
+
+<div align="center">
+  <h3><a href="https://miteclaw.com">🌐 Website: miteclaw.com</a> &nbsp;•&nbsp; <a href="https://miteclaw.com/download">⬇️ Tải MiteClaw Desktop</a> &nbsp;•&nbsp; <a href="https://github.com/nvskhoe/miteclaw">📦 GitHub Repo</a></h3>
+</div>
+
+<br/>
+
+**MiteClaw Desktop** là hệ điều hành tác nhân AI cá nhân (Agent Operating System) chạy trực tiếp trên thiết bị (Local-first), sở hữu kiến trúc Go nguyên khối siêu nhẹ, an toàn chuẩn doanh nghiệp nhưng trực quan cho người dùng phổ thông.
+
+```
+                    ┌────────────────────────────────────────────────┐
+                    │            HUMAN COCKPIT & CHANNELS            │
+                    │   Desktop UI  •  Telegram  •  Zalo  • WhatsApp │
+                    └───────────────────────┬────────────────────────┘
+                                            │
+                                  Exact-Effect Approval
+                                            │
+                    ┌───────────────────────▼────────────────────────┐
+                    │               MITECLAW AGENT OS                │
+                    │   ┌───────────────┐        ┌───────────────┐   │
+                    │   │   Head (Ctx)  │        │ Heart (Rules) │   │
+                    │   ├───────────────┤        ├───────────────┤   │
+                    │   │ Hands (Tools) │        │  Feet (Space) │   │
+                    │   └───────────────┘        └───────────────┘   │
+                    └───────────────┬────────────────┬───────────────┘
+                                    │                │
+            ┌───────────────────────▼──┐          ┌──▼────────────────────────┐
+            │       FLEXIBLE BRAINS    │          │    MITECLAW 9 WORLDS      │
+            │ Cloud: Gemini, Groq, GPT │          │ Studio • Arena • Market   │
+            │ Local: Ollama, llama.cpp │          │ Avatar • Cowork • Media   │
+            └──────────────────────────┘          └───────────────────────────┘
+```
+
+### ⚡ Tính Năng Cốt Lõi Của MiteClaw Desktop:
+- 🚀 **Single Binary & Ultra Lightweight**: Viết bằng Go 1.24, khởi động dưới 2s, tiêu thụ <15MB RAM, không phụ thuộc thư viện rườm rà.
+- 🛡️ **Bảo Mật Quyền Riêng Tư (Local-First)**: Bộ nhớ, hồ sơ công việc và dữ liệu nằm trọn vẹn trên ổ cứng cá nhân. Không thu thập telemetry ngầm.
+- 🚦 **Exact-Effect Approval Gate**: Cơ chế phê duyệt chính xác trước khi thực hiện các tác vụ nhạy cảm (gửi tin nhắn, sửa file, chuyển tiền).
+- 🧠 **Bring Your Own Brain**: Tự do kết nối Cloud API (Google Gemini, Groq, OpenAI, Claude) hoặc chạy 100% Offline với Local LLM (Ollama, llama.cpp, WebLLM).
+- 💬 **Đa Kênh Tương Tác**: Giao việc bằng tiếng Việt tự nhiên trực tiếp trên app hoặc qua bot **Telegram**, **Zalo**, **WhatsApp** khi đang di chuyển.
+- 🇻🇳 **Bộ Kỹ Năng Bản Địa (VN-First Skills)**: Tự động hóa hóa đơn, thuế (`vn-tax-accountant`), tổng hợp dữ liệu, báo cáo văn phòng (Word, Excel, PowerPoint).
+
+### 🌐 Hệ Sinh Thái 9 Thế Giới (MiteClaw Worlds) — Chuẩn MWIP Protocol:
+1. 📜 **[MWIP Protocol](https://protocol.miteclaw.com)**: Giao thức chuẩn hóa tương tác đa thế giới cho AI Agents.
+2. 🛠️ **[MiteClaw Studio](https://studio.miteclaw.com)**: Trực quan hóa quy trình làm việc và phát triển tác nhân thông minh.
+3. 🥋 **[Arena Global](https://arena.miteclaw.com)**: Đấu trường kiểm định năng lực, đối đầu chiến thuật và xếp hạng ELO chuẩn FIDE cho Agents.
+4. 🛍️ **[Marketplace](https://market.miteclaw.com)**: Sàn giao dịch và khám phá các gói kỹ năng (Skill Packs) chuyên biệt.
+5. 🎭 **[Avatar Forge](https://avatar.miteclaw.com)**: Rèn đúc ngoại diện 3D và nhân vật đại diện sống động cho Agent.
+6. 🤝 **[Coworking Hub](https://cowork.miteclaw.com)**: Không gian làm việc cộng tác theo đàn (Swarm Intelligence) giữa người và máy.
+7. ☯️ **[Bazi / FengShui](https://bazi.miteclaw.com)**: Triết học Á Đông và mô hình cố vấn ngũ hành.
+8. 🔬 **[Science / Bio](https://bio.miteclaw.com)**: Tích hợp nghiên cứu y sinh và AlphaFold.
+9. 🎬 **[Video / Media](https://video.miteclaw.com)**: Dây chuyền sản xuất video tự động và truyền thông số.
+
+---
+
+## 📱 Other Featured Production Systems
+
+### 🛒 Tan Ha Garden — AI-Powered E-Commerce Platform
+> **Tech:** Next.js 14 · React 18 · TypeScript · Tailwind CSS · Zustand · Supabase · Gemini AI
+- 🤖 **Mush-Bot AI**: Trợ lý tư vấn bán hàng ngữ nghĩa với bộ nhớ kép (ngắn hạn + dài hạn).
+- 🎨 **White-label CMS**: Hệ thống quản trị đa chi nhánh với 20+ trang quản lý và đa dạng theme.
+- 🌐 **Omnichannel**: Đồng bộ đa kênh sàn thương mại (Shopee, Lazada, TikTok, Zalo).
+- **🔗 Live:** [ktsgroupkorea.com](https://ktsgroupkorea.com)
+
+---
+
+### ☕ Cafe & Restaurant POS System — Smart F&B Management
+> **Tech:** Next.js 14 · React 18 · TypeScript · Tailwind · Zustand · Supabase · WSS Auto-Print
+- 🪑 **Visual Floor Plan**: Sơ đồ bàn tương tác kéo thả mượt mà theo thời gian thực.
+- 🧾 **Auto Invoicing & Print Engine**: Tích hợp máy in nhiệt qua WebSocket Secure (WSS), xuất hóa đơn PDF tự động.
+- 📦 **Offline-First Inventory**: Quản lý xuất nhập tồn kho thời gian thực với Dexie (IndexedDB) ngay cả khi mất mạng.
+- **🔗 Live:** [posofyou.vercel.app](https://posofyou.vercel.app)
+
+---
+
+### 🔒 ScamGuard — AI-Powered Scam Protection
+> **Tech:** React 18 · TypeScript · Vite · Tailwind · Supabase · Multi-LLM API
+- 🛡️ **Lá chắn lừa đảo cộng đồng**: Xác thực số điện thoại, website độc hại, hình ảnh và tài khoản ngân hàng lừa đảo bằng Multi-AI.
+- 🚨 **Cảnh báo khẩn cấp**: Tích hợp SOS và bản đồ cảnh báo rủi ro thời gian thực.
+- **🔗 Repo:** [digital-safety-net](https://github.com/vpnv6786/digital-safety-net) · **Live:** [digital-safety-net.lovable.app](https://digital-safety-net.lovable.app)
+
+---
+
+### 🏃‍♂️ FitRunStake — Move-to-Earn on Sui Blockchain
+> **Tech:** Next.js 16 · React 19 · TypeScript · Sui.js · zkLogin · MediaPipe · Supabase
+- 💰 **Web3 Staking**: Cơ chế khóa token cam kết mục tiêu luyện tập thể thao trên blockchain Sui.
+- 🤖 **AI Agent Coach**: ReAct loop phân tích tư thế chạy bộ qua MediaPipe Vision và đưa ra lời khuyên cá nhân hóa.
+
+---
+
+### 🎬 Automated Video Production Pipeline
+> **Tech:** Python · FastAPI · Docker · Redis · FFmpeg · VieNeu TTS · Multi-Agent Orchestration
+- 🎥 Dây chuyền tự động khép kín từ Lên kịch bản → Giọng đọc AI tự nhiên (VieNeu/SanoTTS) → Tạo hình ảnh/video → Dựng hậu kỳ FFmpeg.
+
+---
+
+## 🛠️ Tech Stack & Architecture
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-EF4444?style=flat-square&logo=framer&logoColor=white)
-
-### Backend & Database
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Web3 & Blockchain
-![Sui](https://img.shields.io/badge/-Sui-4CA3FF?style=flat-square)
-![zkLogin](https://img.shields.io/badge/-zkLogin-6B7280?style=flat-square)
-
-### AI & APIs
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Qwen](https://img.shields.io/badge/-Qwen_API-8B5CF6?style=flat-square)
-![Unsloth](https://img.shields.io/badge/-Unsloth-FF6B35?style=flat-square)
-
-### Tools & Languages
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-
-### AI Coding Assistants
-![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logoColor=white)
-![Trae](https://img.shields.io/badge/-Trae-000000?style=flat-square&logoColor=white)
-![Antigravity](https://img.shields.io/badge/-Antigravity-6366F1?style=flat-square&logoColor=white)
-![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logoColor=white)
-![Kiro](https://img.shields.io/badge/-Kiro-10B981?style=flat-square&logoColor=white)
-![Qwen Code](https://img.shields.io/badge/-Qwen_Code-7C3AED?style=flat-square&logoColor=white)
-![Kilo](https://img.shields.io/badge/-Kilo-F59E0B?style=flat-square&logoColor=white)
-![RooCode](https://img.shields.io/badge/-RooCode-EC4899?style=flat-square&logoColor=white)
-
-### Cloud & Deployment
-![Modal](https://img.shields.io/badge/-Modal-000000?style=flat-square)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+| Lĩnh Vực | Công Nghệ / Runtimes |
+|:---|:---|
+| **Core & Systems** | **Go (Golang 1.24)**, **Python 3.11+**, **Node.js**, **C/C++ (WASM/SIMD)**, **Zig** |
+| **AI & Multi-Agent** | **Local LLM (Ollama, llama.cpp, WebLLM)**, **Gemini API**, **Claude API**, **OpenAI**, **ReAct Loops**, **Agent Swarms** |
+| **Frontend & Mobile** | **Next.js 14/15/16**, **React 18/19**, **TypeScript**, **Tailwind CSS v3/v4**, **Framer Motion**, **Zustand**, **Three.js** |
+| **Backend & Storage** | **Supabase (PostgreSQL + RLS)**, **FastAPI**, **Redis**, **SQLite (Local-first)**, **Edge Functions** |
+| **Protocols & Channels**| **MWIP v0.2 Protocol**, **WebSocket (WSS)**, **Zalo Open API / Bot**, **Telegram Bot API**, **WhatsApp API** |
+| **DevOps & Cloud** | **Docker**, **Modal (Serverless GPU)**, **Vercel**, **Cloudflare Pages/Workers**, **GitHub Actions** |
 
 </div>
 
 ---
 
-## 📱 Featured Projects
-
-### 🛒 Tan Ha Garden - AI-Powered E-Commerce
-> **Tech:** Next.js 14 · React 18 · TypeScript · Tailwind CSS · Zustand · Supabase · Google Gemini AI · Framer Motion
-
-White-label multi-tenant e-commerce platform with AI-powered Mush-Bot assistant and omnichannel integration.
-
-- 🤖 **Mush-Bot AI**: Semantic search with dual-memory system (short-term + long-term)
-- 🎨 **White-label CMS**: 20+ management pages, 10+ theme variations
-- 🌐 **Omnichannel**: Shopee, Lazada, TikTok, Facebook, Zalo integration
-- 📊 **Analytics**: Real-time sales reports with Recharts
-
-**🔗 Live:** [ktsgroupkorea.com](https://ktsgroupkorea.com)
-
----
-
-### ☕ POS System - Point of Sale for Cafes
-> **Tech:** Next.js 14 · React 18 · TypeScript · Tailwind CSS · Zustand · Supabase · Google Gemini AI
-
-Modern POS system with email authentication, offline support, and comprehensive cafe management.
-
-- 🪑 **Table Management**: Visual floor plan with drag-and-drop (dnd)
-- 🧾 **Smart Billing**: Auto PDF generation with jsPDF
-- 📦 **Inventory**: Real-time stock tracking with Dexie (IndexedDB)
-- 🔔 **Notifications**: Web push + toast notifications (Sonner/Hot Toast)
-
-**🔗 Live:** [posofyou.vercel.app](https://posofyou.vercel.app)
-
----
-
-### 🔒 ScamGuard - AI-Powered Scam Protection
-> **Tech:** React 18 · TypeScript · Vite · Tailwind · Supabase · Multi-AI · ⭐ 1 star
-
-A comprehensive scam protection platform for the Vietnamese community with AI-powered verification.
-
-- ✅ **Multi-provider AI**: OpenAI, Gemini, Claude, Perplexity
-- 📱 **Verification**: Phone numbers, websites, emails, images
-- 🚨 **Safety Features**: Real-time alerts, GPS tracking, Emergency SOS
-- 🌍 **Bilingual**: Vietnamese & English support
-
-**🔗 Repo:** [digital-safety-net](https://github.com/vpnv6786/digital-safety-net) · **Live:** [digital-safety-net.lovable.app](https://digital-safety-net.lovable.app)
-
----
-
-## 🚧 Projects in Development
-
-### 🧠 Fine-Tuned - LLM Fine-Tuning Platform
-> **Tech:** Python · Modal · Unsloth · Transformers · PEFT · LoRA · Qwen 2.5
-
-Cloud-based fine-tuning platform for LLMs using Unsloth optimization and Modal serverless GPU.
-
-- 🚀 **Unsloth Optimized**: 2x faster training, 70% less memory
-- 🎛️ **LoRA Config**: Rank 32, 4-bit quantization (QLoRA)
-- ☁️ **Modal Cloud**: Serverless A100 GPU with auto-scaling
-- 🤖 **Base Model**: Qwen 2.5 7B (Chinese-Vietnamese optimized)
-- 📊 **Custom Datasets**: Facebook/social content fine-tuning
-
----
-
-### 🏃‍♂️ FitRunStake - Move-to-Earn on Sui Blockchain
-> **Tech:** Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Sui.js · zkLogin · Supabase · Zustand · MediaPipe
-
-Fitness app combining M2E (Move-to-Earn) mechanics with Web3 staking on Sui blockchain.
-
-- 💰 **Stake USDC**: Lock tokens on fitness goals, earn rewards
-- 🤖 **AI Agent Brain**: ReAct loop with 3-tier memory system
-- 🔐 **Web3 Auth**: zkLogin for passwordless wallet connection
-- 🗺️ **GPS Tracking**: Leaflet maps for route visualization
-- 🏃 **Pose Detection**: MediaPipe Vision for exercise form analysis
-
----
-
-### 🎬 Vietnamese Video Pipeline - AI Video Production
-> **Tech:** Python · FastAPI · Docker · Redis · FFmpeg · Multi-Agent System
-
-End-to-end automated video production pipeline with agent-based orchestration.
-
-- 🎬 **Multi-Agent System**: ScriptGeneration → TTS → VideoGeneration → Assembly
-- 🔄 **Workflow Engine**: Circuit breaker, Saga pattern, Event sourcing
-- 🐳 **Dockerized**: Production-ready with Redis caching
-- 🚀 **Resume Capability**: Checkpoint system for long-running pipelines
-
----
-
-### 🧩 Auto-Flow - Chrome Extension Automation
-> **Tech:** JavaScript · Chrome Extension API · Manifest V3 · Design System
-
-Browser automation extension for streamlining content creation workflows.
-
-- ⚡ **Google Flow/Veo Integration**: Automate AI video generation
-- 🔗 **Pipeline API**: Connect to Vietnamese Video Pipeline
-- 🎨 **Design System**: Custom UI components with locale support
-- 📋 **Manifest V3**: Modern extension architecture
-
----
-
-### 🦀 MiteClaw - Local-First AI Agent
-> **Tech:** Go 1.24 · Zero Dependencies · HTTP API · Ring Buffer Logging
-
-Lightweight, local-first AI agent in a single binary with browser automation and workflow orchestration.
-
-- 📦 **Single Binary**: 22.7MB, zero dependencies, <2s startup, <15MB RAM
-- 🌐 **Browser Daemon**: HTTP API for automation (@e1, @c1 accessibility refs)
-- 🔄 **Workflow Engine**: Parallel execution, pre-flight checks, state persistence
-- 📝 **Ring Buffer**: 50K-entry circular buffers for actions/errors/console
-- 🆓 **Free-First LLM**: Gemini → Cerebras → Ollama routing
-- 🌍 **Multi-language**: 8 languages, 7 currencies support
-
----
-
-## 📊 Development Activity
+## 📬 Connect & Collaborate
 
 <div align="center">
 
-### 💻 Code Contributions (Last Year)
+[![Website](https://img.shields.io/badge/Website-miteclaw.com-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://miteclaw.com)
+[![GitHub](https://img.shields.io/badge/GitHub-vpnv6786-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vpnv6786)
+[![Email](https://img.shields.io/badge/Email-vophinamvu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vophinamvu@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B84965584672-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/84965584672)
 
-| Project | Commits | Status |
-|---------|---------|--------|
-| ☕ **Order Bill** (POS System) | 1,455 | Production |
-| 🛒 **Mobile E-Commerce** (Tan Ha Garden) | 107 | Production |
-| 🔧 **Other** | 111 | Active |
+<br/>
 
-</div>
+### 💖 Ủng Hộ Phát Triển (Support The Vision)
+Nếu bạn đồng hành cùng sứ mệnh phổ cập hóa AI Agent cho mọi người:
+- **Ko-fi**: [ko-fi.com/vpnv6786](https://ko-fi.com/vpnv6786)
+- **PayPal**: [Donate via PayPal](https://www.paypal.com/ncp/payment/TH7M6EQW4E5E4)
+- **MoMo**: Quét mã ủng hộ tại [miteclaw.com/#donate](https://miteclaw.com/#donate)
 
----
-
-## 🏆 Featured Repositories
-
-<div align="center">
-
-*More repositories coming soon...*
-
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vpnv6786)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vophinamvu@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Building solutions that solve real problems"
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vpnv6786&color=blue&style=flat-square)
 
