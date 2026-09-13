@@ -63,9 +63,9 @@
                     └───────────────┬────────────────┬───────────────┘
                                     │                │
             ┌───────────────────────▼──┐          ┌──▼────────────────────────┐
-            │       FLEXIBLE BRAINS    │          │    MITECLAW 9 WORLDS      │
-            │ Cloud: Gemini, Groq, GPT │          │ Studio • Arena • Market   │
-            │ Local: Ollama, llama.cpp │          │ Avatar • Cowork • Media   │
+            │       FLEXIBLE BRAINS    │          │  MWIP NINE WORLDS ATLAS   │
+            │ Cloud: Gemini, Groq, GPT │          │ FitLove • KimKhauQuyet    │
+            │ Local: Ollama, llama.cpp │          │ NamDalat • Dilinhland ... │
             └──────────────────────────┘          └───────────────────────────┘
 ```
 
@@ -78,15 +78,19 @@
 - 🇻🇳 **Bộ Kỹ Năng Bản Địa (VN-First Skills)**: Tự động hóa hóa đơn, thuế (`vn-tax-accountant`), tổng hợp dữ liệu, báo cáo văn phòng (Word, Excel, PowerPoint).
 
 ### 🌐 Hệ Sinh Thái 9 Thế Giới (MiteClaw Worlds) — Chuẩn MWIP Protocol:
-1. 📜 **[MWIP Protocol](https://protocol.miteclaw.com)**: Giao thức chuẩn hóa tương tác đa thế giới cho AI Agents.
-2. 🛠️ **[MiteClaw Studio](https://studio.miteclaw.com)**: Trực quan hóa quy trình làm việc và phát triển tác nhân thông minh.
-3. 🥋 **[Arena Global](https://arena.miteclaw.com)**: Đấu trường kiểm định năng lực, đối đầu chiến thuật và xếp hạng ELO chuẩn FIDE cho Agents.
-4. 🛍️ **[Marketplace](https://market.miteclaw.com)**: Sàn giao dịch và khám phá các gói kỹ năng (Skill Packs) chuyên biệt.
-5. 🎭 **[Avatar Forge](https://avatar.miteclaw.com)**: Rèn đúc ngoại diện 3D và nhân vật đại diện sống động cho Agent.
-6. 🤝 **[Coworking Hub](https://cowork.miteclaw.com)**: Không gian làm việc cộng tác theo đàn (Swarm Intelligence) giữa người và máy.
-7. ☯️ **[Bazi / FengShui](https://bazi.miteclaw.com)**: Triết học Á Đông và mô hình cố vấn ngũ hành.
-8. 🔬 **[Science / Bio](https://bio.miteclaw.com)**: Tích hợp nghiên cứu y sinh và AlphaFold.
-9. 🎬 **[Video / Media](https://video.miteclaw.com)**: Dây chuyền sản xuất video tự động và truyền thông số.
+Thông qua bộ giao thức chuẩn hóa **MWIP Protocol (Multi-World Interaction Protocol v0.2)**, hệ sinh thái MiteClaw kết nối với **9 Thế giới Độc lập (Independent Worlds)** được chuẩn hóa từ atlas `/worlds` (`MiteClaw-Marketing-V2`), tuân thủ nghiêm ngặt nguyên tắc phân định thẩm quyền: *Mọi đề xuất chỉ là đề xuất cho đến khi có bằng chứng phê duyệt chính xác từ con người (Proposal remains proposal until exact approval exists)*:
+
+| # | Thế Giới | ID Thế Giới | Định Vị & Ranh Giới (MWIP Boundary) | Điểm Đến |
+|:---:|:---|:---|:---|:---:|
+| **01** | 🏃 **FitLove** | `fitlove.wellness` | **Independent Wellness World**: Đọc tín hiệu tiến trình, soạn tóm tắt & danh mục kiểm tra theo ngữ cảnh cá nhân; không đưa ra phán quyết y khoa hay thương mại hóa dữ liệu cơ thể. | [health.miteclaw.com](https://health.miteclaw.com) |
+| **02** | 🧘 **KimKhauQuyet** | `kkq.spiritual` | **Independent Spiritual World**: Chuyển hóa ngữ cảnh có cấu trúc thành các bản cố vấn (*advisory-first artifact*) giúp con người suy xét; không thay thế trách nhiệm ra quyết định của con người. | [myst.miteclaw.com](https://myst.miteclaw.com) |
+| **03** | 🌿 **NamDalat** | `namdalat.commerce` | **Independent Commerce World**: Đọc danh mục hàng hóa, soạn thảo đề xuất chào hàng cho chủ sở hữu phê duyệt; tách biệt hoàn toàn với POS và không tự ý thanh toán/thực thi. | [ecom.miteclaw.com](https://ecom.miteclaw.com) |
+| **04** | 🏡 **Dilinhland** | `dilinhland.realestate` | **Independent Real-Estate World**: Minh bạch hóa bằng chứng thực địa và những yếu tố chưa xác định, soạn thảo đề xuất giao dịch bất động sản có giới hạn nghiêm ngặt. | [real.miteclaw.com](https://real.miteclaw.com) |
+| **05** | 🏛️ **KienTrucViet** | `kientrucviet.design` | **Independent Design World**: Khởi đầu từ bản vẽ mặt bằng mẫu, phát triển bản xem trước thiết kế (*design preview*) bàn giao cho quy trình chuyên môn của kiến trúc sư. | [arch.miteclaw.com](https://arch.miteclaw.com) |
+| **06** | 🎭 **Avatar Forge** | `miteclaw.avatar_forge` | **Independent Identity World**: Môi trường định danh độc lập, tạo lập và kiểm duyệt hiện diện hình thể 3D (*agent visual identity artifact*) riêng tư cho Agent trước khi gia nhập các thế giới khác. | [studio.miteclaw.com](https://studio.miteclaw.com) |
+| **07** | 🧾 **POS** | `pos.commerce` | **Independent POS Operations World**: Tuyến vận hành điểm bán hàng riêng biệt, rà soát danh mục và tạo đề xuất đơn hàng với đầy đủ bằng chứng đối soát, kiểm định. | [pos.miteclaw.com](https://pos.miteclaw.com) |
+| **08** | 🛍️ **Marketplace + Agent Labor** | `marketplace.agent_labor` | **Independent Marketplace World**: Khám phá hồ sơ năng lực tác nhân (*Agent Labor & Capability profiles*), đối chiếu bằng chứng kiểm định và định tuyến tác vụ có ranh giới tới đúng chủ sở hữu. | [market.miteclaw.com](https://market.miteclaw.com) |
+| **09** | ⚔️ **Arena** | `arena.evaluation` | **Independent Evaluation World**: Đấu trường đánh giá & thi đấu tác nhân với bản ghi phát lại minh bạch (*replayable record*). Tầng *Arena Protocol* là giao thức kiểm định liên framework độc lập. | [arena.miteclaw.com](https://arena.miteclaw.com) |
 
 ---
 
