@@ -4,6 +4,12 @@
   🇬🇧 <b>English</b> &nbsp;|&nbsp; <a href="README.vi.md">🇻🇳 <b>Tiếng Việt</b></a>
 </p>
 
+<a href="https://miteclaw.com" target="_blank" rel="noopener noreferrer">
+  <img src="assets/miteclaw-logo.png" alt="MiteClaw Logo" width="150" />
+</a>
+
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabinet+Grotesk&weight=700&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Vo+Phi+Vu+%F0%9F%91%8B;AI+Systems+Architect+%26+Product+Builder;Democratizing+Personal+AI+Agents+for+Everyone;Creator+of+MiteClaw+Ecosystem+%F0%9F%A6%80)](https://git.io/typing-svg)
 
 <p align="center">
