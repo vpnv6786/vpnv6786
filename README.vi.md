@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
@@ -36,40 +36,41 @@
 
 > *"Trước khi nhân loại bước vào kỷ nguyên mỗi người đều sở hữu các robot vật lý (humanoid robots) phục vụ cuộc sống hàng ngày như cách chúng ta sở hữu xe hơi, máy tính hay smartphone hiện nay, thì trong tương lai gần nhất — **chỉ từ 1 đến 3 năm tới** — mỗi cá nhân sẽ sở hữu cho riêng mình **ít nhất một AI Agent (Hệ đa tác nhân)** để làm trợ lý đắc lực.*
 >
-> *Những AI Agent này sẽ sống và vận hành trực tiếp trên máy tính cá nhân, VPS cá nhân hoặc điện thoại của mỗi người: hiểu rõ thói quen, tôn trọng quyền riêng tư tuyệt đối, và đồng hành bền bỉ 24/7."*
+> *Những AI Agent này sẽ sống và vận hành trực tiếp trên máy tính cá nhân, VPS cá nhân hoặc điện thoại của mỗi người: hiểu rõ thói quen, tôn trọng quyền riêng tư, và đồng hành bền bỉ 24/7."*
 
 </div>
 
-Để hiện thực hóa tầm nhìn đó, tôi xây dựng và phát triển **MiteClaw** với sứ mệnh **Phổ cập hóa AI Agent** cho toàn xã hội:
-- 🎁 **Phát hành miễn phí (Freeware for All)**: Bất kỳ ai cũng có thể tải về và sở hữu ngay một trợ lý AI mạnh mẽ chạy trực tiếp trên máy tính cá nhân chỉ trong vài phút, bảo mật 100% dữ liệu (Local-First).
-- 🎓 **Giáo dục & Khai sáng công nghệ qua mô hình "Agent Body"**: Giúp người dùng hiểu sâu sắc về bản chất của AI Agent thay vì thần thánh hóa hay sợ hãi — thông qua giải phẫu trực quan 4 phần:
-  - 🧠 **Head (Đầu / Context)**: Bối cảnh, mục tiêu và tri thức — minh bạch hóa điều Agent biết và điều chưa biết.
-  - 💖 **Heart (Tim / Boundary & Governance)**: Giới hạn an toàn và đạo đức — quyền phê duyệt tối thượng luôn thuộc về con người (*Exact-Effect Approval Gates*).
-  - 🤲 **Hands (Tay / Capabilities & Skills)**: Kỹ năng chuyên môn và kết nối hành động (CRM, Office, Web, Zalo, Telegram...) được cấp quyền có kiểm soát.
-  - 🦶 **Feet (Chân / Workspace & Grounding)**: Không gian làm việc cục bộ an toàn, ghi nhận vết thực thi bền vững và bàn giao kết quả thực tế.
+Để hiện thực hóa tầm nhìn đó, tôi xây dựng **MiteClaw** với sứ mệnh **Phổ cập hóa AI Agent** cho toàn xã hội:
+- 🎁 **Miễn phí cho cá nhân**: MiteClaw Desktop miễn phí khi dùng cá nhân với khóa AI của bạn hoặc mô hình chạy trên máy. Hiện đang ở giai đoạn **beta riêng cho Windows** — đăng ký tại [miteclaw.com/download](https://miteclaw.com/download).
+- 🏠 **Dữ liệu ở máy bạn (Local-First)**: hội thoại, tài liệu và hồ sơ lưu trên máy; chỉ rời máy qua nhà cung cấp AI và kênh bạn tự kết nối, và số điện thoại, CCCD, số tài khoản được che trước khi gửi lên AI đám mây.
+- 🎓 **Giáo dục & Khai sáng công nghệ qua mô hình "Agent Body"**: giúp mọi người hiểu đúng bản chất AI Agent qua 4 phần:
+  - 🧠 **Head (Đầu / Context)**: Agent được giao gì, hướng tới đâu và còn chưa biết điều gì.
+  - 💖 **Heart (Tim / Boundary & Governance)**: giới hạn an toàn và đạo đức — quyền phê duyệt luôn thuộc về con người (*Exact-Effect Approval*).
+  - 🤲 **Hands (Tay / Capabilities & Skills)**: kỹ năng và kết nối (Office, Web, Zalo, Telegram…) được cấp quyền có kiểm soát.
+  - 🦶 **Feet (Chân / Workspace & Grounding)**: không gian làm việc trên máy, ghi lại bền vững việc đã làm và bàn giao kết quả thật.
 
 ---
 
-## 🦀 Flagship Ecosystem: MiteClaw — Personal AI Agent OS
+## 🦀 Sản phẩm chủ lực: MiteClaw — Personal AI Agent OS
 
 <div align="center">
-  <h3><a href="https://miteclaw.com">🌐 Website: miteclaw.com</a> &nbsp;•&nbsp; <a href="https://miteclaw.com/download">⬇️ Tải MiteClaw Desktop</a> &nbsp;•&nbsp; <a href="https://protocol.miteclaw.com">📜 Giao thức: protocol.miteclaw.com</a> &nbsp;•&nbsp; <a href="https://github.com/nvskhoe/miteclaw">📦 GitHub Repo</a></h3>
+  <h3><a href="https://miteclaw.com">🌐 miteclaw.com</a> &nbsp;•&nbsp; <a href="https://miteclaw.com/download">📝 Đăng ký beta Desktop</a> &nbsp;•&nbsp; <a href="https://miteclaw.com/use-cases">🧭 Tình huống sử dụng</a> &nbsp;•&nbsp; <a href="https://protocol.miteclaw.com">📜 protocol.miteclaw.com</a></h3>
 </div>
 
 <br/>
 
-**MiteClaw Desktop** là hệ điều hành tác nhân AI cá nhân (Agent Operating System) chạy trực tiếp trên thiết bị (Local-first), sở hữu kiến trúc Go nguyên khối siêu nhẹ, an toàn chuẩn doanh nghiệp nhưng trực quan cho người dùng phổ thông.
+**MiteClaw Desktop** là trợ lý AI cá nhân chạy trên máy Windows: Go daemon và gateway cùng ứng dụng desktop Wails. Mở app là gặp **MITE** — bạn gõ hoặc nói việc cần làm; MITE mở đúng màn hình, soạn sẵn và chờ bạn duyệt trước khi bất cứ thứ gì rời khỏi máy.
 
 ```
                     ┌────────────────────────────────────────────────┐
-                    │            HUMAN COCKPIT & CHANNELS            │
-                    │   Desktop UI  •  Telegram  •  Zalo  • WhatsApp │
+                    │              YOU & YOUR CHANNELS               │
+                    │Desktop · Telegram · Zalo · WhatsApp · Messenger│
                     └───────────────────────┬────────────────────────┘
                                             │
-                                  Exact-Effect Approval
+                        Exact-Effect Approval (default: ask first)
                                             │
                     ┌───────────────────────▼────────────────────────┐
-                    │               MITECLAW AGENT OS                │
+                    │                MITE · AGENT OS                 │
                     │   ┌───────────────┐        ┌───────────────┐   │
                     │   │   Head (Ctx)  │        │ Heart (Rules) │   │
                     │   ├───────────────┤        ├───────────────┤   │
@@ -78,88 +79,81 @@
                     └───────────────┬────────────────┬───────────────┘
                                     │                │
             ┌───────────────────────▼──┐          ┌──▼────────────────────────┐
-            │       FLEXIBLE BRAINS    │          │  MWIP NINE WORLDS ATLAS   │
-            │ Cloud: Gemini, Groq, GPT │          │ FitLove • KimKhauQuyet    │
-            │ Local: Ollama, llama.cpp │          │ NamDalat • Dilinhland ... │
+            │     BRING YOUR BRAIN     │          │   DOMAINS & MWIP WORLDS   │
+            │ Cloud: your own API key  │          │ Education · Agriculture   │
+            │ Local: one-click model,  │          │ Shop · Marketing Studio   │
+            │ Ollama, llama.cpp        │          │ FitLove · POS · Studio …  │
             └──────────────────────────┘          └───────────────────────────┘
 ```
 
-### ⚡ Tính Năng Cốt Lõi Của MiteClaw Desktop:
-- 🚀 **Single Binary & Ultra Lightweight**: Viết bằng Go 1.24, khởi động dưới 2s, tiêu thụ <15MB RAM, không phụ thuộc thư viện rườm rà.
-- 🛡️ **Bảo Mật Quyền Riêng Tư (Local-First)**: Bộ nhớ, hồ sơ công việc và dữ liệu nằm trọn vẹn trên ổ cứng cá nhân. Không thu thập telemetry ngầm.
-- 🚦 **Exact-Effect Approval Gate**: Cơ chế phê duyệt chính xác trước khi thực hiện các tác vụ nhạy cảm (gửi tin nhắn, sửa file, chuyển tiền).
-- 🧠 **Bring Your Own Brain**: Tự do kết nối Cloud API (Google Gemini, Groq, OpenAI, Claude) hoặc chạy 100% Offline với Local LLM (Ollama, llama.cpp, WebLLM).
-- 💬 **Đa Kênh Tương Tác**: Giao việc bằng tiếng Việt tự nhiên trực tiếp trên app hoặc qua bot **Telegram**, **Zalo**, **WhatsApp** khi đang di chuyển.
-- 🇻🇳 **Bộ Kỹ Năng Bản Địa (VN-First Skills)**: Tự động hóa hóa đơn, thuế (`vn-tax-accountant`), tổng hợp dữ liệu, báo cáo văn phòng (Word, Excel, PowerPoint).
+### ⚡ MiteClaw Desktop làm được gì (beta riêng, Windows 10/11)
+- 💬 **Một trợ lý, nhiều kênh**: giao việc ngay trong app hoặc từ xa qua **Telegram, Zalo, WhatsApp và Messenger**, có cài đặt "ai được nói chuyện với trợ lý" cho từng kênh.
+- 🚦 **Duyệt đúng từng lệnh (Exact-Effect Approval)**: mặc định MITE hỏi trước khi gửi, đăng, xoá, chạy mã hay sửa tệp có sẵn; việc liên quan đến tiền luôn hỏi, giọng nói không duyệt thay được, và chỉ nới quyền được trên chính máy tính.
+- 🧠 **Tự chọn "bộ não"**: dán khóa của nhà cung cấp bạn chọn (Gemini, Claude, OpenAI, Groq…) hoặc bấm một nút để chạy AI ngay trên máy.
+- 🗂️ **Việc văn phòng trong khung chat**: tệp Word, Excel, PowerPoint làm ngay trong hội thoại, tự sao lưu mã hoá mỗi ngày, và "luồng hồ sơ" ghi ai yêu cầu, AI nào làm, ai duyệt.
+- 🤝 **Team Rooms**: nhiều bot cùng làm một việc, mỗi bot có bộ công cụ theo vai trò, có người kiểm, chi phí tính bằng đồng và thẻ duyệt.
+- 🔒 **Chỉ gửi số đếm khi bạn đồng ý**: số đếm ẩn danh và báo cáo lỗi chỉ được gửi khi bạn bật.
+
+### 🧭 Các mảng trong bản beta — trạng thái trung thực
+| Mảng | Làm được gì | Trạng thái |
+|:---|:---|:---:|
+| 🎓 **Giáo dục** — [edu.miteclaw.com](https://edu.miteclaw.com) | Tạo cả tiết (giáo án, slide, câu hỏi nhanh) từ một biểu mẫu, đề có cấu trúc lấy từ ngân hàng câu hỏi của chính bạn, chấm tự luận theo tiêu chí (giáo viên chốt), trợ lý lớp, nhiều công cụ không cần AI; cho trường: tổ chuyên môn và hồ sơ tự đánh giá | Local beta · miễn phí cho giáo viên |
+| 🌾 **Nông nghiệp** — [agri.miteclaw.com](https://agri.miteclaw.com) | Nông dân ghi nhật ký, hỏi cán bộ qua Zalo/Telegram; hồ sơ EUDR theo lô, mã vùng trồng, cảnh báo thời gian cách ly, tự đối chiếu tiêu chuẩn (không phải chứng nhận) | Sẵn sàng thí điểm · miễn phí cho nông dân |
+| 🏪 **Cửa hàng** | Sổ bán hàng, đơn qua chat chờ chủ cửa hàng xác nhận, VietQR từng đơn, sổ doanh thu hộ kinh doanh, kết nối sàn — mỗi lần ghi đều hỏi | Local beta |
+| 📣 **Marketing Studio** | Kế hoạch tuần theo mục tiêu chiến dịch, bài cho Facebook, Instagram, Threads, YouTube, LinkedIn, X, Zalo OA, kiểm giá và nhãn quảng cáo; mặc định mỗi bài chờ bạn duyệt | Local beta |
+
+*Tất cả đã xây dựng và kiểm thử trên máy; chưa có đợt thí điểm với trường, hợp tác xã hay cửa hàng thật.*
 
 ---
 
-### 📜 MiteClaw Protocol Hub — Architecture & Open Standards
-> **Cổng chính thức:** [protocol.miteclaw.com](https://protocol.miteclaw.com) &nbsp;•&nbsp; **Docs Repository:** [vpnv6786/miteclaw-protocol-docs](https://github.com/vpnv6786/miteclaw-protocol-docs)
+### 📜 MiteClaw Protocol Hub
+> **Cổng thông tin:** [protocol.miteclaw.com](https://protocol.miteclaw.com) &nbsp;•&nbsp; **Kho tài liệu:** [vpnv6786/miteclaw-protocol-docs](https://github.com/vpnv6786/miteclaw-protocol-docs)
 
-**MiteClaw Protocol Hub** là trung tâm tiêu chuẩn, kiến trúc và giao thức mở bảo chứng tính minh bạch, an toàn và khả năng tương tác toàn diện cho hệ sinh thái AI Agent:
-
-- ⚔️ **Arena Protocol**: Hệ thống đánh giá, ghép trận và kiểm định năng lực của các AI Agent độc lập, minh bạch và có thể tái hiện. Tích hợp bảng xếp hạng ELO chuẩn FIDE (4 bảng), 5 chế độ thi đấu chuyên sâu, phân hạng Model Tier từ T0 đến T5, cơ chế ghi nhận chứng cứ kiểm định (*attestation evidence*) và quy trình quản trị RFCs bài bản.
-- 🌐 **MWIP (Multi-World Interaction Protocol v0.2)**: Giao thức chuẩn hóa việc giao tiếp giữa AI Agent và các World chuyên môn. Thiết lập ranh giới an toàn nghiêm ngặt (*fail-closed boundaries*), cách ly thẩm quyền (*authority containment*) và bảo đảm nguyên tắc: đề xuất mãi chỉ là đề xuất cho đến khi có bằng chứng phê duyệt chính xác từ con người.
-- 🧪 **Cross-Repo E2E Testing Harness**: Khung kiểm thử tự động toàn hệ sinh thái, đảm bảo sự tương thích và đồng bộ chuẩn xác (*byte-perfect conformance*) giữa các kho mã nguồn độc lập.
+- ⚔️ **Arena Protocol**: đánh giá agent phát lại được, có bảng xếp hạng ELO — không cá cược, không phí, không token. [arena.miteclaw.com](https://arena.miteclaw.com) đang là **beta có kiểm soát**.
+- 🌐 **MWIP (Multi-World Interaction Protocol)**: Core **v0.2 (đang ươm)** và Intake **v0.1 bản nháp**. Agent chỉ vào một thế giới độc lập qua tuyến đã khai báo; *đề xuất vẫn chỉ là đề xuất cho tới khi con người duyệt đúng tác động*.
+- 🧪 **Kiểm thử hợp đồng xuyên repo**: bộ kiểm thử nội bộ đối chiếu các thế giới, giao thức và ứng dụng desktop với nhau.
 
 ---
 
-### 🌐 Hệ Sinh Thái 9 Thế Giới (MiteClaw Worlds) — Chuẩn MWIP Protocol:
-Thông qua bộ giao thức chuẩn hóa **MWIP Protocol (Multi-World Interaction Protocol v0.2)**, hệ sinh thái MiteClaw kết nối với **9 Thế giới Độc lập (Independent Worlds)** được chuẩn hóa từ atlas `/worlds` (`MiteClaw-Marketing-V2`), tuân thủ nghiêm ngặt nguyên tắc phân định thẩm quyền: *Mọi đề xuất chỉ là đề xuất cho đến khi có bằng chứng phê duyệt chính xác từ con người (Proposal remains proposal until exact approval exists)*:
-
-| # | Thế Giới | ID Thế Giới | Định Vị & Ranh Giới (MWIP Boundary) | Điểm Đến |
-|:---:|:---|:---|:---|:---:|
-| **01** | 🏃 **FitLove** | `fitlove.wellness` | **Independent Wellness World**: Đọc tín hiệu tiến trình, soạn tóm tắt & danh mục kiểm tra theo ngữ cảnh cá nhân; không đưa ra phán quyết y khoa hay thương mại hóa dữ liệu cơ thể. | [health.miteclaw.com](https://health.miteclaw.com) |
-| **02** | 🧘 **KimKhauQuyet** | `kkq.spiritual` | **Independent Spiritual World**: Chuyển hóa ngữ cảnh có cấu trúc thành các bản cố vấn (*advisory-first artifact*) giúp con người suy xét; không thay thế trách nhiệm ra quyết định của con người. | [myst.miteclaw.com](https://myst.miteclaw.com) |
-| **03** | 🌿 **NamDalat** | `namdalat.commerce` | **Independent Commerce World**: Đọc danh mục hàng hóa, soạn thảo đề xuất chào hàng cho chủ sở hữu phê duyệt; tách biệt hoàn toàn với POS và không tự ý thanh toán/thực thi. | [ecom.miteclaw.com](https://ecom.miteclaw.com) |
-| **04** | 🏡 **Dilinhland** | `dilinhland.realestate` | **Independent Real-Estate World**: Minh bạch hóa bằng chứng thực địa và những yếu tố chưa xác định, soạn thảo đề xuất giao dịch bất động sản có giới hạn nghiêm ngặt. | [real.miteclaw.com](https://real.miteclaw.com) |
-| **05** | 🏛️ **KienTrucViet** | `kientrucviet.design` | **Independent Design World**: Khởi đầu từ bản vẽ mặt bằng mẫu, phát triển bản xem trước thiết kế (*design preview*) bàn giao cho quy trình chuyên môn của kiến trúc sư. | [arch.miteclaw.com](https://arch.miteclaw.com) |
-| **06** | 🎭 **Avatar Forge** | `miteclaw.avatar_forge` | **Independent Identity World**: Môi trường định danh độc lập, tạo lập và kiểm duyệt hiện diện hình thể 3D (*agent visual identity artifact*) riêng tư cho Agent trước khi gia nhập các thế giới khác. | [studio.miteclaw.com](https://studio.miteclaw.com) |
-| **07** | 🧾 **POS** | `pos.commerce` | **Independent POS Operations World**: Tuyến vận hành điểm bán hàng riêng biệt, rà soát danh mục và tạo đề xuất đơn hàng với đầy đủ bằng chứng đối soát, kiểm định. | [pos.miteclaw.com](https://pos.miteclaw.com) |
-| **08** | 🛍️ **Marketplace + Agent Labor** | `marketplace.agent_labor` | **Independent Marketplace World**: Khám phá hồ sơ năng lực tác nhân (*Agent Labor & Capability profiles*), đối chiếu bằng chứng kiểm định và định tuyến tác vụ có ranh giới tới đúng chủ sở hữu. | [market.miteclaw.com](https://market.miteclaw.com) |
-| **09** | ⚔️ **Arena** | `arena.evaluation` | **Independent Evaluation World**: Đấu trường đánh giá & thi đấu tác nhân với bản ghi phát lại minh bạch (*replayable record*). Tầng *Arena Protocol* là giao thức kiểm định liên framework độc lập. | [arena.miteclaw.com](https://arena.miteclaw.com) |
+### 🌐 MiteClaw Worlds — các sản phẩm độc lập nối với nhau qua MWIP
+| # | Thế giới | Vai trò & ranh giới MWIP | Địa chỉ |
+|:---:|:---|:---|:---:|
+| **01** | 🏃 **FitLove** | Theo dõi sức khỏe và bài viết; soạn tóm tắt, danh sách việc, không chẩn đoán hay kê đơn. | [health.miteclaw.com](https://health.miteclaw.com) |
+| **02** | 🧘 **Kim Khẩu Quyết TVH** | Luận giải tham khảo để con người tự quyết; không thay người ra quyết định. | [myst.miteclaw.com](https://myst.miteclaw.com) |
+| **03** | 🍄 **Nấm Dalat** | Cửa hàng nấm; MiteClaw đề xuất đơn, quản trị cửa hàng duyệt hoặc từ chối. | [ecom.miteclaw.com](https://ecom.miteclaw.com) |
+| **04** | 🏡 **DiLinhLand** | Bất động sản Di Linh; yêu cầu tư vấn có đồng ý, quyền giao dịch nằm trong thế giới. | [real.miteclaw.com](https://real.miteclaw.com) |
+| **05** | 🏛️ **Kiến Trúc Việt** | Thiết kế nhà 3D, mẫu nhà, hướng dẫn chi phí xây nhà và phong thủy; chỉnh sửa thiết kế bằng AI chỉ là đề xuất. | [arch.miteclaw.com](https://arch.miteclaw.com) |
+| **06** | 🎭 **MiteClaw Studio** | Nhân vật 3D và linh vật miễn phí ngay trong trình duyệt — tạo, cho nói chuyện, nhúng, tải GLB/VRM. | [studio.miteclaw.com](https://studio.miteclaw.com) |
+| **07** | 🧾 **Pos Of You** | POS quán cà phê; MiteClaw đọc doanh thu và soạn phiếu nhập hàng để nhân viên duyệt tại quầy. | [pos.miteclaw.com](https://pos.miteclaw.com) |
+| **08** | 🛍️ **MiteClaw Marketplace** | Danh mục giải pháp dựng sẵn và gói agent có chữ ký; đăng nhập và báo giá sắp mở. | [market.miteclaw.com](https://market.miteclaw.com) |
+| **09** | ⚔️ **Arena** | Đánh giá agent phát lại được (beta có kiểm soát). | [arena.miteclaw.com](https://arena.miteclaw.com) |
 
 ---
 
-## 📱 Các Hệ Thống Thực Chiến Tiêu Biểu Khác
+## 🔬 Đang phát triển trong hệ sinh thái
+- 🎬 **MiteClaw Video Engine** — bộ dựng video chạy bằng CPU, biến kịch bản hoặc YAML/JSON thành MP4 (TypeScript/Node, ffmpeg). Sẽ chạy trên máy chủ của MiteClaw; chưa mở công khai.
+- 🗣️ **Multi-TTS Voice** — studio giọng nói tiếng Việt (đọc văn bản, nhân bản giọng, sách nói, phụ đề) trên GPU serverless.
+- 📖 **MiteClaw Translator** — dịch Hán sang Việt cho thuật ngữ huyền học, có bảng thuật ngữ và bot.
+- 🌱 **Farmchain** — lớp tin cậy truy xuất nguồn gốc cho doanh nghiệp xuất khẩu cà phê, sầu riêng: hồ sơ EUDR được niêm phong, rà soát lô đất, link chia sẻ cho người mua.
+- 🛡️ **Vệ Binh Mạng** (trước đây là ScamGuard) — "hỏi trước khi chuyển tiền, cài app hay bấm link": bốn mức kết luận, không bao giờ nói "an toàn", các bước giờ vàng khi lỡ bị lừa, bài luyện "thật hay lừa đảo". Repo: [digital-safety-net](https://github.com/vpnv6786/digital-safety-net).
+
+---
+
+## 📱 Các hệ thống thực chiến khác
 
 ### 🛒 Tan Ha Garden — Nền Tảng Thương Mại Điện Tử Tích Hợp AI
 > **Công nghệ:** Next.js 14 · React 18 · TypeScript · Tailwind CSS · Zustand · Supabase · Gemini AI
-- 🤖 **Mush-Bot AI**: Trợ lý tư vấn bán hàng ngữ nghĩa với bộ nhớ kép (ngắn hạn + dài hạn).
-- 🎨 **White-label CMS**: Hệ thống quản trị đa chi nhánh với 20+ trang quản lý và đa dạng theme.
-- 🌐 **Omnichannel**: Đồng bộ đa kênh sàn thương mại (Shopee, Lazada, TikTok, Zalo).
+- 🤖 **Mush-Bot AI**: trợ lý tư vấn bán hàng ngữ nghĩa với bộ nhớ ngắn hạn và dài hạn.
+- 🎨 **White-label CMS**: quản trị đa chi nhánh với 20+ trang quản lý và nhiều theme.
+- 🌐 **Omnichannel**: đồng bộ đơn với Shopee, Lazada, TikTok, Zalo.
 - **🔗 Trực tiếp:** [ktsgroupkorea.com](https://ktsgroupkorea.com)
-
----
-
-### ☕ Cafe & Restaurant POS System — Quản Lý F&B Thông Minh
-> **Công nghệ:** Next.js 14 · React 18 · TypeScript · Tailwind · Zustand · Supabase · WSS Auto-Print
-- 🪑 **Visual Floor Plan**: Sơ đồ bàn tương tác kéo thả mượt mà theo thời gian thực.
-- 🧾 **Auto Invoicing & Print Engine**: Tích hợp máy in nhiệt qua WebSocket Secure (WSS), xuất hóa đơn PDF tự động.
-- 📦 **Offline-First Inventory**: Quản lý xuất nhập tồn kho thời gian thực với Dexie (IndexedDB) ngay cả khi mất mạng.
-- **🔗 Trực tiếp:** [pos.miteclaw.com](https://pos.miteclaw.com)
-
----
-
-### 🔒 ScamGuard — Lá Chắn Phòng Chống Lừa Đảo Trực Tuyến
-> **Công nghệ:** React 18 · TypeScript · Vite · Tailwind · Supabase · Multi-LLM API
-- 🛡️ **Bảo vệ cộng đồng**: Xác thực số điện thoại, website độc hại, hình ảnh và tài khoản ngân hàng lừa đảo bằng Multi-AI.
-- 🚨 **Cảnh báo khẩn cấp**: Tích hợp SOS và bản đồ cảnh báo rủi ro thời gian thực.
-- **🔗 Repo:** [digital-safety-net](https://github.com/vpnv6786/digital-safety-net) · **Trực tiếp:** [digital-safety-net.lovable.app](https://digital-safety-net.lovable.app)
 
 ---
 
 ### 🏃‍♂️ FitRunStake — Move-to-Earn Trên Sui Blockchain
 > **Công nghệ:** Next.js 16 · React 19 · TypeScript · Sui.js · zkLogin · MediaPipe · Supabase
-- 💰 **Web3 Staking**: Cơ chế khóa token cam kết mục tiêu luyện tập thể thao trên blockchain Sui.
+- 💰 **Web3 Staking**: khóa token cam kết mục tiêu luyện tập trên blockchain Sui.
 - 🤖 **AI Agent Coach**: ReAct loop phân tích tư thế chạy bộ qua MediaPipe Vision và đưa ra lời khuyên cá nhân hóa.
-
----
-
-### 🎬 Automated Video Production Pipeline
-> **Công nghệ:** Python · FastAPI · Docker · Redis · FFmpeg · VieNeu TTS · Multi-Agent Orchestration
-- 🎥 Dây chuyền tự động khép kín từ Lên kịch bản → Giọng đọc AI tự nhiên (VieNeu/SanoTTS) → Tạo hình ảnh/video → Dựng hậu kỳ FFmpeg.
 
 ---
 
@@ -169,12 +163,12 @@ Thông qua bộ giao thức chuẩn hóa **MWIP Protocol (Multi-World Interactio
 
 | Lĩnh Vực | Công Nghệ / Runtimes |
 |:---|:---|
-| **Core & Systems** | **Go (Golang 1.24)**, **Python 3.11+**, **Node.js**, **C/C++ (WASM/SIMD)**, **Zig** |
-| **AI & Multi-Agent** | **Local LLM (Ollama, llama.cpp, WebLLM)**, **Gemini API**, **Claude API**, **OpenAI**, **ReAct Loops**, **Agent Swarms** |
-| **Frontend & Mobile** | **Next.js 14/15/16**, **React 18/19**, **TypeScript**, **Tailwind CSS v3/v4**, **Framer Motion**, **Zustand**, **Three.js** |
-| **Backend & Storage** | **Supabase (PostgreSQL + RLS)**, **FastAPI**, **Redis**, **SQLite (Local-first)**, **Edge Functions** |
-| **Protocols & Channels**| **MWIP v0.2 Protocol**, **WebSocket (WSS)**, **Zalo Open API / Bot**, **Telegram Bot API**, **WhatsApp API** |
-| **DevOps & Cloud** | **Docker**, **Modal (Serverless GPU)**, **Vercel**, **Cloudflare Pages/Workers**, **GitHub Actions** |
+| **Core & Systems** | **Go 1.26**, **Wails v2**, **Node.js / TypeScript**, **Python 3.11+**, **Zig** (nghiên cứu) |
+| **AI & Agents** | **Claude API**, **Gemini API**, **OpenAI**, **Groq**, **llama.cpp / Ollama** (trên máy), **ReAct loops**, **phòng nhiều bot** |
+| **Frontend** | **React 18/19**, **Vite**, **Next.js 14–16**, **TypeScript**, **Tailwind CSS v3/v4**, **Three.js**, **VRM/GLB** |
+| **Backend & Storage** | **SQLite (local-first)**, **Supabase (PostgreSQL + RLS)**, **FastAPI**, **Redis / BullMQ**, **ClickHouse** |
+| **Protocols & Channels** | **MWIP v0.2**, **Arena Protocol**, **Zalo OA / Bot**, **Telegram Bot API**, **WhatsApp**, **Messenger** |
+| **Cloud & Delivery** | **Cloudflare Pages / Workers**, **Vercel**, **Render**, **Modal (GPU serverless)**, **Docker** |
 
 </div>
 
