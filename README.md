@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
@@ -36,40 +36,41 @@
 
 > *"Before humanity enters an era where every individual owns physical humanoid robots in daily life—just as we own cars, computers, and smartphones today—in the very near future (**within the next 1 to 3 years**), every person will possess **at least one personal AI Agent (Multi-Agent System)** as an indispensable assistant.*
 >
-> *These AI Agents will live and operate directly on personal computers, private VPS, or mobile devices: understanding personal workflows, respecting absolute privacy, and collaborating reliably 24/7."*
+> *These AI Agents will live and operate directly on personal computers, private VPS, or mobile devices: understanding personal workflows, respecting privacy, and collaborating reliably 24/7."*
 
 </div>
 
-To turn this vision into reality, I build and engineer **MiteClaw** with the mission of **Democratizing Personal AI Agents** for everyone:
-- 🎁 **Freeware for All**: Distributed freely at [miteclaw.com](https://miteclaw.com) so anyone can download and own an autonomous, production-ready AI agent running locally in minutes, with 100% data privacy (Local-First).
-- 🎓 **Education & Demystification via "Agent Body"**: Helping users deeply understand the true anatomy of AI Agents rather than fearing or mystifying them—conceptualized through 4 core anatomy pillars:
-  - 🧠 **Head (Context)**: What the agent has been told, what it aims to achieve, and what still remains unknown.
-  - 💖 **Heart (Boundary & Governance)**: Rules of engagement, ethical boundaries, and supreme human control (*Exact-Effect Approval Gates*).
-  - 🤲 **Hands (Capability & Skills)**: Professional skills and external integrations (CRM, Office, Web, Zalo, Telegram...) granted with fine-grained containment.
-  - 🦶 **Feet (Workspace & Grounding)**: A defined physical environment on local storage, preserving durable execution history and returning tangible deliverables.
+To turn this vision into reality, I build **MiteClaw** with the mission of **Democratizing Personal AI Agents** for everyone:
+- 🎁 **Free for individuals**: MiteClaw Desktop is free for personal use with your own AI key or a model running on your computer. It is in a **private Windows beta** today — join the waitlist at [miteclaw.com/download](https://miteclaw.com/download).
+- 🏠 **Local-first**: conversations, documents and records stay on your machine; they leave it only through the AI providers and channels you connect, and phone numbers, ID and bank numbers are masked before anything goes to a cloud AI.
+- 🎓 **Education & Demystification via "Agent Body"**: helping people understand what an AI agent really is, through 4 anatomy pillars:
+  - 🧠 **Head (Context)**: what the agent has been told, what it aims to achieve, and what is still unknown.
+  - 💖 **Heart (Boundary & Governance)**: rules, ethical boundaries and human control (*Exact-Effect Approval*).
+  - 🤲 **Hands (Capability & Skills)**: skills and integrations (Office, Web, Zalo, Telegram…) granted with fine-grained containment.
+  - 🦶 **Feet (Workspace & Grounding)**: a defined workspace on local storage, a durable record of what was done, and real deliverables.
 
 ---
 
-## 🦀 Flagship Ecosystem: MiteClaw — Personal AI Agent OS
+## 🦀 Flagship: MiteClaw — Personal AI Agent OS
 
 <div align="center">
-  <h3><a href="https://miteclaw.com">🌐 Website: miteclaw.com</a> &nbsp;•&nbsp; <a href="https://miteclaw.com/download">⬇️ Download MiteClaw Desktop</a> &nbsp;•&nbsp; <a href="https://protocol.miteclaw.com">📜 Protocol: protocol.miteclaw.com</a> &nbsp;•&nbsp; <a href="https://github.com/nvskhoe/miteclaw">📦 GitHub Repo</a></h3>
+  <h3><a href="https://miteclaw.com">🌐 miteclaw.com</a> &nbsp;•&nbsp; <a href="https://miteclaw.com/download">📝 Join the Desktop beta</a> &nbsp;•&nbsp; <a href="https://miteclaw.com/use-cases">🧭 Use cases</a> &nbsp;•&nbsp; <a href="https://protocol.miteclaw.com">📜 protocol.miteclaw.com</a></h3>
 </div>
 
 <br/>
 
-**MiteClaw Desktop** is a local-first personal Agent Operating System running directly on your computer, built with a monolithic Go architecture: ultra-lightweight, enterprise-grade safety, and consumer assistant simplicity.
+**MiteClaw Desktop** is a local-first personal agent for Windows: a Go daemon and gateway with a Wails desktop app. You meet **MITE**, an assistant you type or talk to; it opens the right screen, drafts the work and waits for your approval before anything leaves the computer.
 
 ```
                     ┌────────────────────────────────────────────────┐
-                    │            HUMAN COCKPIT & CHANNELS            │
-                    │   Desktop UI  •  Telegram  •  Zalo  • WhatsApp │
+                    │              YOU & YOUR CHANNELS               │
+                    │Desktop · Telegram · Zalo · WhatsApp · Messenger│
                     └───────────────────────┬────────────────────────┘
                                             │
-                                  Exact-Effect Approval
+                        Exact-Effect Approval (default: ask first)
                                             │
                     ┌───────────────────────▼────────────────────────┐
-                    │               MITECLAW AGENT OS                │
+                    │                MITE · AGENT OS                 │
                     │   ┌───────────────┐        ┌───────────────┐   │
                     │   │   Head (Ctx)  │        │ Heart (Rules) │   │
                     │   ├───────────────┤        ├───────────────┤   │
@@ -78,103 +79,96 @@ To turn this vision into reality, I build and engineer **MiteClaw** with the mis
                     └───────────────┬────────────────┬───────────────┘
                                     │                │
             ┌───────────────────────▼──┐          ┌──▼────────────────────────┐
-            │       FLEXIBLE BRAINS    │          │  MWIP NINE WORLDS ATLAS   │
-            │ Cloud: Gemini, Groq, GPT │          │ FitLove • KimKhauQuyet    │
-            │ Local: Ollama, llama.cpp │          │ NamDalat • Dilinhland ... │
+            │     BRING YOUR BRAIN     │          │   DOMAINS & MWIP WORLDS   │
+            │ Cloud: your own API key  │          │ Education · Agriculture   │
+            │ Local: one-click model,  │          │ Shop · Marketing Studio   │
+            │ Ollama, llama.cpp        │          │ FitLove · POS · Studio …  │
             └──────────────────────────┘          └───────────────────────────┘
 ```
 
-### ⚡ Core Capabilities of MiteClaw Desktop:
-- 🚀 **Single Binary & Ultra Lightweight**: Engineered with Go 1.24, <2s cold boot, <15MB RAM consumption, zero third-party runtime dependencies.
-- 🛡️ **Privacy by Default (Local-First)**: Conversation history, task records, and memory graphs remain strictly on your local disk. Zero hidden telemetry.
-- 🚦 **Exact-Effect Approval Gate**: Deterministic approval gating before high-consequence actions execute (sending messages, modifying files, processing payments).
-- 🧠 **Bring Your Own Brain**: Seamlessly plug in cloud LLMs (Google Gemini, Groq, OpenAI, Claude) or run 100% offline air-gapped with local LLMs (Ollama, llama.cpp, WebLLM).
-- 💬 **Connected Channels**: Assign tasks via natural language directly in the desktop cockpit or remotely through paired **Telegram**, **Zalo**, and **WhatsApp** bots.
-- 🇻🇳 **Domain Skills**: Pre-packaged skills for taxation (`vn-tax-accountant`), spreadsheet crunching, automated office reports (Word, Excel, PowerPoint), and scheduled cron routines.
+### ⚡ What MiteClaw Desktop does (private beta, Windows 10/11)
+- 💬 **One assistant, many channels**: give MITE work in the app or remotely over **Telegram, Zalo, WhatsApp and Messenger**, with a per-channel "who can talk to my assistant" setting.
+- 🚦 **Exact-Effect Approval**: by default MITE asks before it sends, posts, deletes, runs code or edits an existing file; anything involving money always asks, voice can never approve, and loosening is only possible on the computer itself.
+- 🧠 **Bring your own brain**: paste a key from the provider you choose (Gemini, Claude, OpenAI, Groq…) or press one button to run an AI model on your own computer.
+- 🗂️ **Office work in chat**: Word, Excel and PowerPoint files made in the conversation, daily encrypted backups, and a tamper-evident record of who asked, which AI worked and who approved.
+- 🤝 **Team Rooms**: several bots work a task together, each with a role-based tool kit, a checker, a cost in VND and approval cards.
+- 🔒 **Opt-in telemetry only**: anonymous counts and crash reports are sent only if you agree.
+
+### 🧭 Domains in the beta — honest status
+| Domain | What it does | Status |
+|:---|:---|:---:|
+| 🎓 **Education** — [edu.miteclaw.com](https://edu.miteclaw.com) | Whole lessons (plan, slides, quiz) from one form, structured exams from your own question bank, rubric essay grading the teacher confirms, a class assistant, many tools that need no AI; for schools: subject teams and self-assessment dossiers | Local beta · free for teachers |
+| 🌾 **Agriculture** — [agri.miteclaw.com](https://agri.miteclaw.com) | Farmers log fieldwork and ask technicians over Zalo/Telegram; EUDR file per lot, growing-area codes, pre-harvest-interval warnings, standards self-checks (not a certification) | Ready for pilot · free for farmers |
+| 🏪 **Shop** | Shop book, orders in chat that wait for the owner, VietQR per order, household-business revenue book, marketplace connections where every write asks | Local beta |
+| 📣 **Marketing Studio** | Weekly plan against a campaign goal, drafts for Facebook, Instagram, Threads, YouTube, LinkedIn, X and Zalo OA, price and ad-label checks; each post waits for your approval by default | Local beta |
+
+*Everything above is built and tested locally; no pilot with a real school, cooperative or shop has run yet.*
 
 ---
 
-### 📜 MiteClaw Protocol Hub — Architecture & Open Standards
-> **Official Portal:** [protocol.miteclaw.com](https://protocol.miteclaw.com) &nbsp;•&nbsp; **Docs Repository:** [vpnv6786/miteclaw-protocol-docs](https://github.com/vpnv6786/miteclaw-protocol-docs)
+### 📜 MiteClaw Protocol Hub
+> **Portal:** [protocol.miteclaw.com](https://protocol.miteclaw.com) &nbsp;•&nbsp; **Docs repository:** [vpnv6786/miteclaw-protocol-docs](https://github.com/vpnv6786/miteclaw-protocol-docs)
 
-**MiteClaw Protocol Hub** establishes the foundational open protocols, verifiable standards, and architecture specifications powering the entire agent ecosystem:
-
-- ⚔️ **Arena Protocol**: Independent, transparent, and replayable agent evaluation and matchmaking framework. Features FIDE-style ELO ratings (4 leaderboards), 5 specialized competition modes, T0–T5 model tiering, attestation evidence profiles, and rigorous RFC governance.
-- 🌐 **MWIP (Multi-World Interaction Protocol v0.2)**: Standardized protocol enabling agents to discover and interact with independent domain worlds. Enforces fail-closed boundaries, authority containment, and the core invariant: *a proposal remains a proposal until exact human approval exists*.
-- 🧪 **Cross-Repo E2E Testing Harness**: Automated end-to-end testing infrastructure across independent repositories, ensuring byte-perfect conformance and ecosystem synchronization.
+- ⚔️ **Arena Protocol**: replayable agent evaluation with ELO leaderboards — no betting, no fees, no tokens. [arena.miteclaw.com](https://arena.miteclaw.com) is a **controlled beta**.
+- 🌐 **MWIP (Multi-World Interaction Protocol)**: Core **v0.2 (incubation)** plus the Intake **v0.1 draft**. An agent enters an independent world only through declared routes; *a proposal stays a proposal until a human approves the exact effect*.
+- 🧪 **Cross-repo contract tests**: an internal suite that checks the worlds, the protocol and the desktop against each other.
 
 ---
 
-### 🌐 The 9 Independent Worlds (MiteClaw Worlds) — MWIP Protocol:
-Connected through the **MWIP Protocol (Multi-World Interaction Protocol v0.2)**, the ecosystem links **9 Independent Worlds** standardized from the `/worlds` atlas (`MiteClaw-Marketing-V2`), adhering strictly to domain authority containment:
-
-| # | World | World ID | Role & MWIP Boundary | Destination |
-|:---:|:---|:---|:---|:---:|
-| **01** | 🏃 **FitLove** | `fitlove.wellness` | **Independent Wellness World**: Reads bounded progress signals, drafts summaries & checklists without diagnosing, prescribing, or monetizing body data. | [health.miteclaw.com](https://health.miteclaw.com) |
-| **02** | 🧘 **KimKhauQuyet** | `kkq.spiritual` | **Independent Spiritual World**: Transforms structured reflective context into an advisory-first artifact for human judgment; never replaces the decision maker. | [myst.miteclaw.com](https://myst.miteclaw.com) |
-| **03** | 🌿 **NamDalat** | `namdalat.commerce` | **Independent Commerce World**: Reads catalog context and prepares merchant drafts for domain owner review; isolated from POS and never auto-executes settlement. | [ecom.miteclaw.com](https://ecom.miteclaw.com) |
-| **04** | 🏡 **Dilinhland** | `dilinhland.realestate` | **Independent Real-Estate World**: Exposes property evidence and unknowns while strictly holding transaction authority within its domain boundaries. | [real.miteclaw.com](https://real.miteclaw.com) |
-| **05** | 🏛️ **KienTrucViet** | `kientrucviet.design` | **Independent Design World**: Develops floorplan previews into readable design artifacts for professional architects; not a procurement or construction release. | [arch.miteclaw.com](https://arch.miteclaw.com) |
-| **06** | 🎭 **Avatar Forge** | `miteclaw.avatar_forge` | **Independent Identity World**: Dedicated environment for generating and reviewing private 3D agent visual identity artifacts before joining other worlds. | [studio.miteclaw.com](https://studio.miteclaw.com) |
-| **07** | 🧾 **POS** | `pos.commerce` | **Independent POS Operations World**: Operational commerce route for reviewing order proposals backed by exact verification, reconciliation, and release evidence. | [pos.miteclaw.com](https://pos.miteclaw.com) |
-| **08** | 🛍️ **Marketplace + Agent Labor** | `marketplace.agent_labor` | **Independent Marketplace World**: Discovers capability profiles (Agent Labor), verifies attestation evidence, and routes bounded requests to verified owners. | [market.miteclaw.com](https://market.miteclaw.com) |
-| **09** | ⚔️ **Arena** | `arena.evaluation` | **Independent Evaluation World**: Replayable agent evaluation proving ground. Arena Protocol remains a separate cross-framework protocol surface. | [arena.miteclaw.com](https://arena.miteclaw.com) |
+### 🌐 MiteClaw Worlds — independent products connected through MWIP
+| # | World | Role & MWIP boundary | Destination |
+|:---:|:---|:---|:---:|
+| **01** | 🏃 **FitLove** | Wellness tracker and articles; drafts summaries and checklists, never diagnoses or prescribes. | [health.miteclaw.com](https://health.miteclaw.com) |
+| **02** | 🧘 **Kim Khẩu Quyết TVH** | Reflective, advisory-first readings for human judgment; never replaces the decision maker. | [myst.miteclaw.com](https://myst.miteclaw.com) |
+| **03** | 🍄 **Nấm Dalat** | Mushroom shop; MiteClaw proposes orders, the shop admin approves or rejects them. | [ecom.miteclaw.com](https://ecom.miteclaw.com) |
+| **04** | 🏡 **DiLinhLand** | Di Linh real estate; consent-gated enquiries, transaction authority stays with the world. | [real.miteclaw.com](https://real.miteclaw.com) |
+| **05** | 🏛️ **Kiến Trúc Việt** | 3D home design, templates, building-cost and feng-shui guides; AI design edits are proposals only. | [arch.miteclaw.com](https://arch.miteclaw.com) |
+| **06** | 🎭 **MiteClaw Studio** | Free 3D characters and mascots in the browser — create, make them talk, embed, download GLB/VRM. | [studio.miteclaw.com](https://studio.miteclaw.com) |
+| **07** | 🧾 **Pos Of You** | Cafe POS; MiteClaw reads sales and drafts goods receipts that staff approve at the till. | [pos.miteclaw.com](https://pos.miteclaw.com) |
+| **08** | 🛍️ **MiteClaw Marketplace** | Catalog of ready-made solutions and signed agent packages; sign-in and quotes are coming. | [market.miteclaw.com](https://market.miteclaw.com) |
+| **09** | ⚔️ **Arena** | Replayable agent evaluation (controlled beta). | [arena.miteclaw.com](https://arena.miteclaw.com) |
 
 ---
 
-## 📱 Other Featured Production Systems
+## 🔬 In development across the ecosystem
+- 🎬 **MiteClaw Video Engine** — a CPU-first renderer that turns a brief or YAML/JSON into an MP4 (TypeScript/Node, ffmpeg). It will run on MiteClaw's own server; not public yet.
+- 🗣️ **Multi-TTS Voice** — a Vietnamese voice studio (TTS, voice cloning, audiobooks, subtitles) on serverless GPU.
+- 📖 **MiteClaw Translator** — Chinese-to-Vietnamese translation for metaphysics terms, with a glossary and bots.
+- 🌱 **Farmchain** — a traceability trust layer for coffee and durian exporters: sealed EUDR dossiers, plot screening, buyer share links.
+- 🛡️ **Vệ Binh Mạng** (formerly ScamGuard) — "ask before you transfer money, install an app or open a link": four verdicts that never say "safe", golden-hour steps if you were scammed, a practice quiz. Repo: [digital-safety-net](https://github.com/vpnv6786/digital-safety-net).
+
+---
+
+## 📱 Other production work
 
 ### 🛒 Tan Ha Garden — AI-Powered E-Commerce Platform
 > **Tech:** Next.js 14 · React 18 · TypeScript · Tailwind CSS · Zustand · Supabase · Gemini AI
-- 🤖 **Mush-Bot AI**: Semantic shopping assistant with dual-memory system (short-term + long-term).
-- 🎨 **White-label CMS**: Multi-branch administrative dashboard with 20+ management pages and dynamic themes.
-- 🌐 **Omnichannel**: Real-time synchronization across e-commerce marketplaces (Shopee, Lazada, TikTok, Zalo).
+- 🤖 **Mush-Bot AI**: a semantic shopping assistant with short- and long-term memory.
+- 🎨 **White-label CMS**: a multi-branch admin with 20+ management pages and themes.
+- 🌐 **Omnichannel**: order sync with Shopee, Lazada, TikTok and Zalo.
 - **🔗 Live:** [ktsgroupkorea.com](https://ktsgroupkorea.com)
-
----
-
-### ☕ Cafe & Restaurant POS System — Smart F&B Management
-> **Tech:** Next.js 14 · React 18 · TypeScript · Tailwind · Zustand · Supabase · WSS Auto-Print
-- 🪑 **Visual Floor Plan**: Interactive drag-and-drop table management with real-time dining state.
-- 🧾 **Auto Invoicing & Print Engine**: Hardware thermal printer integration via WebSocket Secure (WSS) and automated PDF invoice generation.
-- 📦 **Offline-First Inventory**: Real-time stock ledger powered by Dexie (IndexedDB) with offline fallback resilience.
-- **🔗 Live:** [pos.miteclaw.com](https://pos.miteclaw.com)
-
----
-
-### 🔒 ScamGuard — AI-Powered Scam Protection Platform
-> **Tech:** React 18 · TypeScript · Vite · Tailwind · Supabase · Multi-LLM API
-- 🛡️ **Community Defense Net**: Multi-AI verification for suspicious phone numbers, phishing URLs, fraudulent images, and bank accounts.
-- 🚨 **Emergency Response**: Real-time threat heatmap and instant SOS emergency routing.
-- **🔗 Repo:** [digital-safety-net](https://github.com/vpnv6786/digital-safety-net) · **Live:** [digital-safety-net.lovable.app](https://digital-safety-net.lovable.app)
 
 ---
 
 ### 🏃‍♂️ FitRunStake — Move-to-Earn on Sui Blockchain
 > **Tech:** Next.js 16 · React 19 · TypeScript · Sui.js · zkLogin · MediaPipe · Supabase
-- 💰 **Web3 Staking**: Token commitment mechanics for fitness milestone accountability on Sui blockchain.
-- 🤖 **AI Agent Coach**: ReAct evaluation loop analyzing running posture via MediaPipe Vision to provide personalized coaching.
+- 💰 **Web3 Staking**: token commitment for fitness milestones on Sui.
+- 🤖 **AI Agent Coach**: a ReAct loop that reads running posture through MediaPipe Vision and gives personal coaching.
 
 ---
 
-### 🎬 Automated Video Production Pipeline
-> **Tech:** Python · FastAPI · Docker · Redis · FFmpeg · VieNeu TTS · Multi-Agent Orchestration
-- 🎥 End-to-end automated generation pipeline: Scripting → Natural Vietnamese TTS (VieNeu/SanoTTS) → Generative Video → FFmpeg Post-production Assembly.
-
----
-
-## 🛠️ Tech Stack & Architecture
+## 🛠️ Tech Stack
 
 <div align="center">
 
 | Domain | Technologies & Runtimes |
 |:---|:---|
-| **Core & Systems** | **Go (Golang 1.24)**, **Python 3.11+**, **Node.js**, **C/C++ (WASM/SIMD)**, **Zig** |
-| **AI & Multi-Agent** | **Local LLMs (Ollama, llama.cpp, WebLLM)**, **Gemini API**, **Claude API**, **OpenAI**, **ReAct Loops**, **Agent Swarms** |
-| **Frontend & Mobile** | **Next.js 14/15/16**, **React 18/19**, **TypeScript**, **Tailwind CSS v3/v4**, **Framer Motion**, **Zustand**, **Three.js** |
-| **Backend & Storage** | **Supabase (PostgreSQL + RLS)**, **FastAPI**, **Redis**, **SQLite (Local-first)**, **Edge Functions** |
-| **Protocols & Channels**| **MWIP v0.2 Protocol**, **WebSocket (WSS)**, **Zalo Open API / Bot**, **Telegram Bot API**, **WhatsApp API** |
-| **DevOps & Cloud** | **Docker**, **Modal (Serverless GPU)**, **Vercel**, **Cloudflare Pages/Workers**, **GitHub Actions** |
+| **Core & Systems** | **Go 1.26**, **Wails v2**, **Node.js / TypeScript**, **Python 3.11+**, **Zig** (research) |
+| **AI & Agents** | **Claude API**, **Gemini API**, **OpenAI**, **Groq**, **llama.cpp / Ollama** (local), **ReAct loops**, **multi-bot rooms** |
+| **Frontend** | **React 18/19**, **Vite**, **Next.js 14–16**, **TypeScript**, **Tailwind CSS v3/v4**, **Three.js**, **VRM/GLB** |
+| **Backend & Storage** | **SQLite (local-first)**, **Supabase (PostgreSQL + RLS)**, **FastAPI**, **Redis / BullMQ**, **ClickHouse** |
+| **Protocols & Channels** | **MWIP v0.2**, **Arena Protocol**, **Zalo OA / Bot**, **Telegram Bot API**, **WhatsApp**, **Messenger** |
+| **Cloud & Delivery** | **Cloudflare Pages / Workers**, **Vercel**, **Render**, **Modal (serverless GPU)**, **Docker** |
 
 </div>
 
