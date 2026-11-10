@@ -10,20 +10,11 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabinet+Grotesk&weight=700&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+V%C3%B5+Phi+V%C5%A9+%F0%9F%91%8B;Ki%E1%BA%BFn+tr%C3%BAc+s%C6%B0+H%E1%BB%87+th%E1%BB%91ng+AI+%26+Product+Builder;Ph%E1%BB%95+c%E1%BA%ADp+h%C3%B3a+AI+Agent+cho+m%E1%BB%8Di+ng%C6%B0%E1%BB%9Di;Nh%C3%A0+s%C3%A1ng+l%E1%BA%ADp+H%E1%BB%87+sinh+th%C3%A1i+MiteClaw+%F0%9F%A6%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabinet+Grotesk&weight=700&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+V%C3%B5+Phi+V%C5%A9+%F0%9F%91%8B;Product+Builder+%E2%80%94+Thi%E1%BA%BFt+k%E1%BA%BF%2C+ra+m%E1%BA%AFt%2C+v%E1%BA%ADn+h%C3%A0nh;Ph%E1%BB%95+c%E1%BA%ADp+h%C3%B3a+AI+Agent+cho+m%E1%BB%8Di+ng%C6%B0%E1%BB%9Di;Nh%C3%A0+s%C3%A1ng+l%E1%BA%ADp+H%E1%BB%87+sinh+th%C3%A1i+MiteClaw+%F0%9F%A6%80)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/Language-English-lightgrey?style=flat-square" alt="English" /></a>
   <a href="README.vi.md"><img src="https://img.shields.io/badge/Ng%C3%B4n_ng%E1%BB%AF-Ti%E1%BA%BFng_Vi%E1%BB%87t-blue?style=flat-square" alt="Tiếng Việt" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Local_AI-FF6B35?style=for-the-badge&logo=ai&logoColor=white" alt="Local AI" />
 </p>
 
 </div>
@@ -157,7 +148,7 @@
 
 ---
 
-## 🛠️ Ngăn Xếp Công Nghệ (Tech Stack)
+## 🛠️ Công nghệ trong các sản phẩm
 
 <div align="center">
 
