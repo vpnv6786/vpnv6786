@@ -10,20 +10,11 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabinet+Grotesk&weight=700&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Vo+Phi+Vu+%F0%9F%91%8B;AI+Systems+Architect+%26+Product+Builder;Democratizing+Personal+AI+Agents+for+Everyone;Creator+of+MiteClaw+Ecosystem+%F0%9F%A6%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabinet+Grotesk&weight=700&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Vo+Phi+Vu+%F0%9F%91%8B;Product+Builder+%E2%80%94+Design%2C+Ship%2C+Operate;Democratizing+Personal+AI+Agents+for+Everyone;Creator+of+MiteClaw+Ecosystem+%F0%9F%A6%80)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/Language-English-blue?style=flat-square" alt="English" /></a>
   <a href="README.vi.md"><img src="https://img.shields.io/badge/Ng%C3%B4n_ng%E1%BB%AF-Ti%E1%BA%BFng_Vi%E1%BB%87t-lightgrey?style=flat-square" alt="Tiếng Việt" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Local_AI-FF6B35?style=for-the-badge&logo=ai&logoColor=white" alt="Local AI" />
 </p>
 
 </div>
@@ -157,7 +148,7 @@ To turn this vision into reality, I build **MiteClaw** with the mission of **Dem
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ What the products run on
 
 <div align="center">
 
